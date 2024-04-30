@@ -16,17 +16,15 @@ nav_order: 1
 
 -----
 
-The thing I see the most among people who want to get into streaming is wanting to get paid for just playing games and then quickly getting disappointed by their lack of growth. What people seem to forget is that, **first and foremost, streamers are entertainers and entertaining is not easy**.
-
-## How to Approach Content Creation
-
-### Capturing and Engaging Your Audience
+## How to Entertain
 
 {% include youtube.html id='uupxfOwyCUk' %}
 
-Your value proposition should be providing a more entertaining experience than your viewer can get watching another streamer or playing the game for themselves. Your question to yourself should be "If I clicked into a stream and someone else was doing what I was doing, would I continue watching or would I click away?" The video above by Zekoz gives some really good advice on how to be engaging when no one is watching and things to keep in mind when starting your streaming career.
+The thing I see the most among people who want to get into streaming is wanting to get paid for just playing games and then quickly getting disappointed by their lack of growth. What people seem to forget is that, **first and foremost, streamers are entertainers and entertaining is not easy**. Your value proposition should be providing a more entertaining experience than your viewer can get watching another streamer or playing the game for themselves. Your question to yourself should be "If I clicked into a stream and someone else was doing what I was doing, would I continue watching or would I click away?" The video above by Zekoz gives some really good advice on how to be engaging when no one is watching and things to keep in mind when starting your streaming career.
 
-### Having the "Proper" Expectations
+-----
+
+## How to Approach Content Creation
 
 {% include youtube.html id='1yFG--iv5fQ' %}
 
