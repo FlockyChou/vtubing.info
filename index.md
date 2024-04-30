@@ -24,6 +24,7 @@ As I transitioned from solely watching corporate VTubers to watching more indie 
 
 ## Mission
 *This guide is currently extremely WIP as I gather my thoughts and resources.*
+*I am currently in the process of porting this guide from [the original GitHub wiki](https://github.com/FlockyChou/CheapVTubing/wiki), so some information may be missing still.*
 
 The reason this guide wasn't titled "VTubing for Free" is because, between needing to have access to a computer and an internet connection, money already needs to be spent. What this guide **will** try to do is provide the cheapest and most straightforward path from knowing absolutely nothing to streaming, regardless of your experience or hardware.
 
