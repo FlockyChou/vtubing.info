@@ -1,11 +1,12 @@
 ---
-title: Additional Advice
+title: Finding Widgets
 layout: default
-parent: Resources
+parent: Overlays and Widgets
+grand_parent: Resources
 nav_order: 1
 ---
 
-# Additional Advice
+# Finding Widgets
 {: .no_toc }
 
 ## Table of Contents
@@ -16,4 +17,6 @@ nav_order: 1
 
 -----
 
-{% include youtube.html id='uupxfOwyCUk' %}
+## Chat Boxes
+
+## Alert Widgets

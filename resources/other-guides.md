@@ -1,8 +1,7 @@
 ---
 title: Other Guides and Resources
 layout: default
-parent: Assets
-grand_parent: Resources
+parent: Resources
 nav_order: 2
 ---
 

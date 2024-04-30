@@ -1,11 +1,12 @@
 ---
-title: Additional Advice
+title: Finding Overlays
 layout: default
-parent: Resources
+parent: Overlays and Widgets
+grand_parent: Resources
 nav_order: 1
 ---
 
-# Additional Advice
+# Finding Overlays
 {: .no_toc }
 
 ## Table of Contents
@@ -16,4 +17,4 @@ nav_order: 1
 
 -----
 
-{% include youtube.html id='uupxfOwyCUk' %}
+## Stream Overlays
