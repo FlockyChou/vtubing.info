@@ -5,13 +5,17 @@ nav_order: 1
 ---
 
 # Home
-> VTubing doesn't have to be expensive. You can start your VTubing journey with a laptop and free software, assets, and games. You just need to get started.
+{: .no_toc }
 
-## Table of contents
+## Table of Contents
+{: .no_toc .text-delta }
+
 1. TOC
 {:toc}
 
 -----
+
+> VTubing doesn't have to be expensive. You can start your VTubing journey with a laptop and free software, assets, and games. You just need to get started.
 
 ## Background
 As I transitioned from solely watching corporate VTubers to watching more indie VTubers, I've noticed a number of people talk about not knowing anything when they started and fighting an uphill battle to get things working, not having any sort of reliable tech support, struggling to figure out how to set up OBS, etc. As someone who has had (very) minor success streaming and building a small community, and has worked in tech support, I was hoping I could contribute something to this space.
