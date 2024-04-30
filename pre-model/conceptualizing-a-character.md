@@ -25,9 +25,10 @@ I think it is very important to have your character match not only your personal
 -----
 
 ## Collecting Inspirations
-To get started, I would recommend putting together a sort of vision board of some sort, collecting design elements you would want your character to have based on other things you've seen. This can be inspirations from other VTubers, anime characters, real life clothing, animals, etc.
 
-[This video by Zekoz (timestamp relavant)](https://youtu.be/B_FiUhYe9Dk?t=36&si=YJouV6Q_j6MReQTX) briefly goes over how the above would look like.
+{% include youtube.html id='B_FiUhYe9Dk' %}
+
+To get started, I would recommend putting together a sort of vision board of some sort, collecting design elements you would want your character to have based on other things you've seen. This can be inspirations from other VTubers, anime characters, real life clothing, animals, etc. The video above by Zekoz briefly goes over how the above would look like.
 
 ## Putting It All Together
 
