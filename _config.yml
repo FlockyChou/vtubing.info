@@ -4,7 +4,5 @@ theme: just-the-docs
 
 url: https://flockychou.github.io/
 
-logo: "/assets/images/cheap-vtubing-logo.png"
-
 aux_links:
   Contribute: https://github.com/FlockyChou/flockychou.github.io/issues
