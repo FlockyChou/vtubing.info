@@ -49,12 +49,20 @@ You can follow Zekoz's journey to commissioning a VTuber model on a budget [in t
 ## (Alternative) Buying/Adopting/Using a F2U Pre-made Model
 If you want to get started as soon as possible, you can find pre-made model for sale. Some of them even have customizable components like skin tone, hair, and facial features.
 
-You can find these on places like Twitter and Booth, a marketplace with a large community of artists creating models and assets for VTubers for free. Assets get uploaded under different tags and the site may be hard to navigate with many of the items being in Japanese, but you can use the related tags on each search page to browse around.
+You can find these on places like Twitter and Booth, a marketplace with a large community of artists creating models and assets for VTubers for free. 
+
+### Twitter
+
+For Twitter, you can find people posting adoptables using the following hashtags:
+* [#pngtuber #adoptables](https://twitter.com/search?q=%23pngtuber%20%23adoptables)
+* [#live2d #adoptables](https://twitter.com/search?q=%23live2d%20%23adoptables)
+
+You can also seach for terms like ["customizable live2d"](https://twitter.com/search?q=customizable%20live2d). I was able to find this really cute and [cheap customizable chibi by miikutea_](https://twitter.com/miikutea_/status/1764085270180446287) for $15 and this [full-sized model also by miikutea_](https://twitter.com/miikutea_/status/1780388342649212971) for $35.
+
+### Booth
+
+For Booth, assets get uploaded under different tags so be sure to and the site may be hard to navigate with many of the items being in Japanese, but you can use the related tags on each search page to browse around.
 
 The best tags that I've found for free Live2D models were:
 * [Free Models (live2d tag)](https://booth.pm/en/items?tags%5B%5D=live2d&max_price=0)
 * [Free Models (live2d model tag)](https://booth.pm/en/items?tags%5B%5D=live2d%E3%83%A2%E3%83%87%E3%83%AB&max_price=0)
-
-For adoptables, you can find people posting them on Twitter using the following hashtags:
-* [https://twitter.com/search?q=%23pngtuber %23adoptables](#pngtuber #adoptables)
-* [https://twitter.com/search?q=%23live2d %23adoptables](#live2d #adoptables)

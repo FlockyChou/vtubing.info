@@ -1,30 +1,15 @@
 ---
 title: Home
-layout: default
+layout: home
 nav_order: 1
 ---
 
 # Home
-{: .no_toc }
-
-## Table of Contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
------
 
 > VTubing doesn't have to be expensive. You can start your VTubing journey with a laptop and free software, assets, and games. You just need to get started.
 
-## Background
-As I transitioned from solely watching corporate VTubers to watching more indie VTubers, I've noticed a number of people talk about not knowing anything when they started and fighting an uphill battle to get things working, not having any sort of reliable tech support, struggling to figure out how to set up OBS, etc. As someone who has had (very) minor success streaming and building a small community, and has worked in tech support, I was hoping I could contribute something to this space.
-
------
-
 ## Mission
 *This guide is currently extremely WIP as I gather my thoughts and resources.*
-*I am currently in the process of porting this guide from [the original GitHub wiki](https://github.com/FlockyChou/CheapVTubing/wiki), so some information may be missing still.*
 
 The reason this guide wasn't titled "VTubing for Free" is because, between needing to have access to a computer and an internet connection, money already needs to be spent. What this guide **will** try to do is provide the cheapest and most straightforward path from knowing absolutely nothing to streaming, regardless of your experience or hardware.
 
