@@ -7,5 +7,5 @@ has_children: true
 
 # Pre-Debut
 
-These are things to do before debuting.
+Here are the things you might want to figure out before you debut, like setting up your OBS, setting up face tracking for your model, and prepping for your debut stream.
 {: .fs-6 .fw-300 }

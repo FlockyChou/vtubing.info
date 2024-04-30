@@ -8,5 +8,5 @@ has_children: true
 
 # Assets
 
-A list of commonly-used assets and how to find assets in general.
+Here is a list of commonly-used assets and a guide on how to find assets in general.
 {: .fs-6 .fw-300 }

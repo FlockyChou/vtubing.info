@@ -8,5 +8,5 @@ has_children: true
 
 # Games
 
-A list of both free and budget games.
+Here are lists of both free and budget games that you can consider streaming.
 {: .fs-6 .fw-300 }

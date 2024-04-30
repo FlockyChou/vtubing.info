@@ -7,5 +7,5 @@ has_children: true
 
 # Post-Debut
 
-These are things to do after debuting.
+Here are the things you might want to figure out after debuting, like making your streams more visually appealing, experimenting with different types of streams and activities, and scheduling collabs.
 {: .fs-6 .fw-300 }
