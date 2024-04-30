@@ -1,4 +1,5 @@
-# Cheap VTubing
+![Cheap VTubing](assets/images/cheap-vtubing-logo.png)
+
 > VTubing Can be Cheap and So Can You!
 
 [Read the guide here](https://vtubing.info/).
