@@ -1,7 +1,7 @@
 ---
 title: Finding Widgets
 layout: default
-parent: Overlays and Widgets
+parent: Overlays, Widgets, and More
 grand_parent: Resources
 nav_order: 1
 ---
