@@ -3,7 +3,7 @@
 
 [Read the guide here](https://vtubing.info/).
 
-This guide is using the [Just the Docs] theme.
+This guide is using the [Just the Docs](https://just-the-docs.github.io/just-the-docs/) theme.
 
 # Background
 As I transitioned from solely watching corporate VTubers to watching more indie VTubers, I've noticed a number of people talk about not knowing anything when they started and fighting an uphill battle to get things working, not having any sort of reliable tech support, struggling to figure out how to set up OBS, etc. As someone who has had (very) minor success streaming and building a small community, and has worked in tech support, I was hoping I could contribute something to this space.
