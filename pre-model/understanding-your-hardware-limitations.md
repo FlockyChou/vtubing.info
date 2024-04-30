@@ -2,7 +2,7 @@
 title: Understanding Your Hardware Limitations
 layout: default
 parent: Pre-Model
-nav_order: 3
+nav_order: 2
 ---
 
 # Understanding Your Hardware Limitations
