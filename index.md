@@ -6,6 +6,8 @@ nav_order: 1
 
 # Home
 
+![Cheap VTubing](assets/images/cheap-vtubing-logo.png)
+
 > VTubing doesn't have to be expensive. You can start your VTubing journey with a laptop and free software, assets, and games. You just need to get started.
 
 ## Mission
