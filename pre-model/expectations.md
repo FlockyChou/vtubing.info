@@ -19,9 +19,18 @@ nav_order: 1
 The thing I see the most among people who want to get into streaming is wanting to get paid for just playing games and then quickly getting disappointed by their lack of growth. What people seem to forget is that, **first and foremost, streamers are entertainers and entertaining is not easy**.
 
 ## How to Approach Content Creation
-Your value proposition should be providing a more entertaining experience than your viewer can get watching another streamer or playing the game for themselves. Your question to yourself should be "If I clicked into a stream and someone else was doing what I was doing, would I continue watching or would I click away?" [This video by Zekoz](https://www.youtube.com/watch?v=uupxfOwyCUk) gives some really good advice on how to be engaging when no one is watching and things to keep in mind when starting your streaming career.
 
-While not explicitly relevant to VTubing, Coffeezilla put out a video talking about his [10 years of content creation on YouTube](https://www.youtube.com/watch?v=1yFG--iv5fQ). In it, he highlights a number of lessons he learned during this time making content that I feel is very relevant to people looking into getting into content creation today.
+### Capturing and Engaging Your Audience
+
+{% include youtube.html id='uupxfOwyCUk' %}
+
+Your value proposition should be providing a more entertaining experience than your viewer can get watching another streamer or playing the game for themselves. Your question to yourself should be "If I clicked into a stream and someone else was doing what I was doing, would I continue watching or would I click away?" The video above by Zekoz gives some really good advice on how to be engaging when no one is watching and things to keep in mind when starting your streaming career.
+
+### Having the "Proper" Expectations
+
+{% include youtube.html id='1yFG--iv5fQ' %}
+
+While not explicitly relevant to VTubing, Coffeezilla put out a video talking about his 10 years of content creation on YouTube. In it, he highlights a number of lessons he learned during this time making content that I feel is very relevant to people looking into getting into content creation today.
 
 The most relevant takeaways for me are:
 * **Focus on the Long-term** - Wanting to get into content creation with the goal of making money will show in your work. Getting paid to do what you love would be great but it should not be the immediate goal.
