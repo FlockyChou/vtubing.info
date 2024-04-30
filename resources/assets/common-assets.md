@@ -2,6 +2,7 @@
 title: Common Assets
 layout: default
 parent: Assets
+grand_parent: Resources
 nav_order: 1
 ---
 
