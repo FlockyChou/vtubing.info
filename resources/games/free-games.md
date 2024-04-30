@@ -33,15 +33,21 @@ I'm not going to go over [the most common examples](https://www.pcmag.com/picks/
 * Fan Games
   * **Pokemon Fan Games** - Not to be confused with ROM hacks, these are [Pokemon-like games created in RPG Maker](https://www.pokemoncoders.com/best-fan-made-pokemon-games/), which make them standalone and don't require emulators.
 
+-----
+
 ## Free Games from the Epic Games Store
 
 The Epic Games Store [gives out 1-2 free games every week](https://store.epicgames.com/en-US/free-games). These are free to redeem and are your to keep on your account forever. Most of the time, these are indie games; however, they have given out AAA games before such as Death Stranding, The Evil Within 1 & 2, and Ghostwire: Tokyo.
+
+-----
 
 ## Itch.io
 
 Itch.io is the home of [hundreds of thousands of free games](https://itch.io/games/free). There are games of all sorts of genres and quality on there so browse around and find something that interests you. A lot of these can even be played directly in your browser.
 
 Some notable examples are the original versions of indie hits [Celeste](https://maddymakesgamesinc.itch.io/celesteclassic) and [Spelunky](https://yancharkin.itch.io/spelunky-classic-hd), and popular Hololive fangames that you may have seen streamed by Holomem like the aforementioned Holocure, [Delivering Hope](https://david-wu-softdev.itch.io/delivering-hope-hololive-fangame), [Mumei ≠ Gura](https://planetdropper.itch.io/mumei-gura-voice-quiz), [Councilrys RPG](https://kebbie.itch.io/councilrysrpg), [Protostar Twilight](https://tacticalelysium.itch.io/protostar-twilight), and [Flare Nuinui Quest](https://sulpx.itch.io/nuinui-quest).
+
+-----
 
 ## Demos
 
@@ -53,6 +59,8 @@ However, one of my favorite "demos" is...
 The most expansive "demo" ever, the [FF14's free trial](https://freetrial.finalfantasyxiv.com/) has been [meme'd to death](https://www.youtube.com/watch?v=DY-S28YQfss) but if you're looking for an MMO to pick up, I personally feel like it can't be beat. It's a game very focused on story and can have very long cutscenes, so keep that in mind. However, the community is generally very patient and helpful to newer players.
 
 The free trial includes the base game and the entire first expansion, totaling over 100 hours of gameplay, with some [restrictions to your account](https://support.na.square-enix.com/rule.php?id=5382&tag=freetrial). These restrictions are not content-based but account-based, including being unable to create or join a guild, use the player marketplace, or trade with other players. You can refer to [this video](https://youtu.be/LS04SxXm60I) that goes over what these restrictions mean.
+
+-----
 
 ## Emulation & ROM Hacks
 
