@@ -2,7 +2,7 @@
 title: Other Guides and Resources
 layout: default
 parent: Resources
-nav_order: 2
+nav_order: 1
 ---
 
 # Other Guides and Resources
