@@ -16,6 +16,12 @@ nav_order: 3
 
 -----
 
-While there is nothing wrong with begin a variety streamer, it's important to identify what kind of content you want to focus on the most to set a vibe for your audience and to find your niche. Finding your niche doesn't necessarily mean that you're forced to play only Fortnite for the rest of your life on stream. Instead, it should be thought of as a way for your audience to know what to generally expect when joining one of your streams.
+While there is nothing wrong with begin a variety streamer, it's important to identify what kind of content you want to focus on the most to set a vibe for your audience and to find your niche.
 
-If you've ever heard of the term "comfy gamer", you'll know what I mean. Comfy gamers generally play chill games such as Animal Crossing, Stardew Valley, and other low-stress games. However, this doesn't mean they can't try new things and play a horror game—it just means that their audience expects a certain type of content and to lay back and relax most of the time when watching.
+## What is a Niche?
+
+{% include youtube.html id='ob-LwY5fF7A' %}
+
+This very short video by the YouTube Creators channel gives a good explanation, but basically, it is a focus on creating content for a specific type so that your fans know what to expect.
+
+If you've ever heard of the term "comfy gamer", you'll know what I mean. If you haven't, comfy gamers often play games like Animal Crossing, Stardew Valley, and other low-stress games. This often creates a community where their audience can come into chat and wind-down and talk about their day, and situation where the streamer can focus more on talking to their fans rather than focus on high-paced gameplay. However, this doesn't mean they can't try new things like playing a horror game—it just means that their audience expects a certain type of content and to lay back most of the time when watching.

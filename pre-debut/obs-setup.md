@@ -2,7 +2,7 @@
 title: Setting up OBS Studio
 layout: default
 parent: Pre-Debut
-nav_order: 1
+nav_order: 2
 ---
 
 # Setting up OBS Studio

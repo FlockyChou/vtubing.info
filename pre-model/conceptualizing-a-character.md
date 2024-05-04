@@ -63,13 +63,3 @@ For adoptables, you can find people posting them on Twitter using the following 
 * [https://twitter.com/search?q=%23characterdesign %23adoptables](#characterdesign #adoptables)
 
 For pre-made models, refer to the obtaining a model section.
-
------
-
-## Finding a Name
-
-Your VTuber name is also an important part of your identity and something you need to be thoughtful about. A common name can lead to you being buried in the search results; however, a name too complex will have users having trouble finding you as well.
-
-Be sure to search for your name combination on Google, Twitter, YouTube, Twitch, or whatever platform you intend on using to make sure it isn't actively used by someone and that there aren't millions of search results for it already.
-
-For example, using a VTuber name generator, it gave me "SerenityScribe", which brings to mind a chill poetry/writing-themed muse VTuber. However, when I search for "serenity scribe" on Google, I see that it has over 1,000,000 search results and is used by multiple social media accounts and businesses. On YouTube, there aren't as many relevant results but the handle @SerenityScribe has been taken, meaning you would have to use a different one.

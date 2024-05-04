@@ -2,7 +2,7 @@
 title: Setting up Your Model
 layout: default
 parent: Pre-Debut
-nav_order: 2
+nav_order: 3
 ---
 
 # Setting up Your Model
