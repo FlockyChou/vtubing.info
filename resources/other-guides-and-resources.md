@@ -28,6 +28,8 @@ Streamlabs has a series of guides starting with [VTubing for Beginners guide](ht
 
 Additionally, there are quite a few guides from Streamlabs with [no real way way to see all of them in one place based on relevance](https://streamlabs.com/content-hub/search?query=VTuber&categories=streaming%2Cplatforms%2Cstreamlabs-desktop%2Ctools%2Cwidgets%2Csupport%2Cuniversity).
 
+-----
+
 ## Resources
 
 ### VTResources

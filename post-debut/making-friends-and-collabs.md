@@ -28,6 +28,8 @@ The key takeaways are:
 1. **Be Yourself** - You should not be reaching out to people for the sole purpose of business; people will be skeptical of you.
 1. **Be a Part of the Community** - Ideally, you should be an active member of someone's community before reaching out to them.
 
+-----
+
 ## Collabs
 
 As previously featured, [What you need to know as a Vtuber (timestamp relevant)](https://www.youtube.com/watch?v=uupxfOwyCUk&t=365s) by Zekos has a section covering collab etiquette and how to plan one.

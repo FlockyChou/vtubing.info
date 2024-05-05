@@ -22,8 +22,6 @@ I think it is very important to have your character match not only your personal
 
 *While rebranding is technically easy to do, redebuting as a brand new character is pretty rare from what I've seen (minus when an indie VTuber joins a corporation and vice versa).*
 
------
-
 ## Collecting Inspirations
 
 {% include youtube.html id='B_FiUhYe9Dk' %}

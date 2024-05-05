@@ -16,7 +16,9 @@ nav_order: 2
 
 -----
 
-### Twitter
+Below are a few places you can find overlay, schedules, alerts, and chat widgets.
+
+## Twitter
 
 Twitter is a really good place to find free overlays, backgrounds, BGM, and VTube Studio model accessories.
 
@@ -33,6 +35,6 @@ I also "like" assets I really like at [@FlockyX](https://twitter.com/FlockyX) an
 
 -----
 
-### VTResources
+## VTResources
 
 [VTResources](https://vtresources.carrd.co/#assets) has a huge list of assets. Simply search "overlay" or "schedule" on the page to find them.
