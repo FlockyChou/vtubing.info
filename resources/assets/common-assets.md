@@ -21,6 +21,9 @@ Here are a few high quality free assets that I have come across that you might b
 
 ## Hands
 
+### Microphones
+* [A variety of different microphone types and colors on VTuber Graphics](https://vtubergraphics.com/collections/free-resources)
+
 ### Video Game Controllers
 * [Switch Pro Controller-like w/ Changeable Skin Tones by @VRTaika](https://twitter.com/VRTaika/status/1688990894525931520)
 * [Switch Pro Controller-like w/ More Skin Tones by @smatteredstars_](https://twitter.com/smatteredstars_/status/1431471032418795522)

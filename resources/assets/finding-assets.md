@@ -51,5 +51,6 @@ The best tags that I've found were:
 
 ## Misc.
 
+* [VTuber Graphics](https://vtubergraphics.com/) has a lot of affordable paid assets; however, they do have a [section for free assets](https://vtubergraphics.com/collections/free-resources) on their website consisting mostly of microphones (at time of writing).
 * [Irasutoya](https://www.irasutoya.com/) is the Japanese clipart site that many members of Hololive and clippers use. Unfortunately, the site is mostly in Japanese but there is an English search.
 * [Okumono](https://sozaino.site/) is a free background site that I found recommended on Twitter. Unfortunately, the site is only in Japanese so it may be a bit hard to navigate. [Apparently, no credit is needed to use.](https://www.reddit.com/r/VirtualYoutubers/comments/1bha1rj/comment/kvhhmgv/)
