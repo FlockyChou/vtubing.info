@@ -44,7 +44,14 @@ Kick also [launched without a "Report" button](https://www.dexerto.com/entertain
 
 Most recently, there has been an increase of dangerous content on the website that even Adin Ross thinks is going too far. In April 2024, another prolific Kick streamer, N3on, livestreamed himself and a street racer speeding through traffic and causing a hit-and-run, only to receive a 1-day ban.
 
-I would consider you think long and hard about what kind of community you want to foster and whether or not those align with the values of Kick streamers and their viewers. 
+I would consider you think long and hard about what kind of community you want to foster and whether or not those align with the values of Kick streamers and their viewers.
+
+### Thoughts on Short-form Content
+
+{% include youtube.html id='pPL7nOOI-_s' %}
+
+Unless you're planning on specifically making short-form content on YouTube or TikTok, it seems like most users who find your content through shorts are exclusively interested in shorts. I've seen this phenomenon occur to a number of indie VTubers where their subscription count blew up due to a viral short but did not see significant growth in stream viewership. In the clip above by Leno Vtuber Clips, idol EN VTuber Rin Penrose talks about their experience with this.
+
 
 -----
 
