@@ -18,10 +18,12 @@ nav_order: 3
 
 You can start VTubing with what you have but if you have a bit of money to invest into your channel, here are the items I would pick up. Please note that these are not professional recommendations but rather items I personally have experience with and liked.
 
-*Please also note that this section may contain affiliate links. This means that, I may receive a small commission if any purchases are made from using these links.*
+{: .note }
+Please also note that this section may contain affiliate links. This means that, I may receive a small commission if any purchases are made from using these links.
 
 ## Microphone
-[*Please note that if you plan on doing voice work or performing cover songs, there are better guides out there for recommendations based on your needs.*]
+{: .important }
+Please note that if you plan on doing voice work or performing cover songs, there are better guides out there for recommendations based on your needs.
 
 {% include youtube.html id='3ZUJOrW-gMQ' %}
 

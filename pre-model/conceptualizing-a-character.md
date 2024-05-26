@@ -20,7 +20,8 @@ While ultimately, you want to your audience to stick around for your content and
 
 I think it is very important to have your character match not only your personality but also your content. That doesn't mean your character design needs to be scream "gamer" or "comfy". Instead, I think it's important to consider what others may think your content would revolve around by looks alone and if the subversion of those expectations would drive them away.
 
-*While rebranding is technically easy to do, redebuting as a brand new character is pretty rare from what I've seen (minus when an indie VTuber joins a corporation and vice versa).*
+{: .note }
+While rebranding is technically easy to do, redebuting as a brand new character is pretty rare from what I've seen (minus when an indie VTuber joins a corporation and vice versa).
 
 ## Collecting Inspirations
 
@@ -58,6 +59,6 @@ For those less artistically-inclined, you can see if you can find an artist to h
 If you want to get started as soon as possible, you can find "adoptable" character designs or pre-made model for sale.
 
 For adoptables, you can find people posting them on Twitter using the following hashtags:
-* [https://twitter.com/search?q=%23characterdesign %23adoptables](#characterdesign #adoptables)
+* [https://twitter.com/search?q=%23characterdesign%20%23adoptables](#characterdesign #adoptables)
 
 For pre-made models, refer to the obtaining a model section.

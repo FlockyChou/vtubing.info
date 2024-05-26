@@ -38,7 +38,8 @@ To check your upload speed, go to a website like [Speedtest](https://www.speedte
 3. Finally, press "GO" and wait for the test to finish.
 4. The final number under "Upload Kbps" should be **at least double** your target bitrate listed above.
 
-**Please note that even if your internet can handle streaming at 9,000 Kbps, your computer might not be able to and vice versa.**
+{: .important }
+Please note that even if your internet can handle streaming at 9,000 Kbps, your computer might not be able to and vice versa.
 
 ### Test Streaming
 

@@ -21,8 +21,8 @@ Not a fan of this guide? Here are a few guides and resources from other people t
 ## Guides
 
 ### Streamlabs
-
-[*I'm personally [not a fan of Streamlabs as a company](https://www.dexerto.com/entertainment/obs-streamlabs-reach-agreement-plagiarism-controversy-1727742/) but their guides can be helpful.*]
+{: .note }
+I'm personally [not a fan of Streamlabs as a company](https://www.dexerto.com/entertainment/obs-streamlabs-reach-agreement-plagiarism-controversy-1727742/) but their guides can be helpful.
 
 Streamlabs has a series of guides starting with [VTubing for Beginners guide](https://streamlabs.com/content-hub/post/vtubing-for-beginners). These can be informative and I've even featured some of their guides as recommended reading in mine; however, I feel like some of the are very verbose info dumps and give too many options. While the same topics are covered sometimes, the main goal of my guides are to take a lot of the guesswork out of the equation and get people started, with the option to change their mind on things later.
 

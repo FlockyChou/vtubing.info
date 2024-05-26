@@ -6,3 +6,16 @@ url: https://flockychou.github.io/
 
 aux_links:
   Contribute: https://github.com/FlockyChou/flockychou.github.io/issues
+
+callouts:
+  warning:
+    title: Warning
+    color: red
+
+  important:
+    title: Important
+    color: blue
+
+  note:
+    title: Note
+    color: purple
