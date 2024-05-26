@@ -22,6 +22,7 @@ You can start VTubing with what you have but if you have a bit of money to inves
 Please also note that this section may contain affiliate links. This means that, I may receive a small commission if any purchases are made from using these links.
 
 ## Microphone
+
 {: .important }
 Please note that if you plan on doing voice work or performing cover songs, there are better guides out there for recommendations based on your needs.
 

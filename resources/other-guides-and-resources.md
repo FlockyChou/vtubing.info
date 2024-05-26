@@ -21,6 +21,7 @@ Not a fan of this guide? Here are a few guides and resources from other people t
 ## Guides
 
 ### Streamlabs
+
 {: .note }
 I'm personally [not a fan of Streamlabs as a company](https://www.dexerto.com/entertainment/obs-streamlabs-reach-agreement-plagiarism-controversy-1727742/) but their guides can be helpful.
 

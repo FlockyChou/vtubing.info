@@ -63,6 +63,7 @@ Making a Live2D model can be fairly difficult and not something I have tried so 
 -----
 
 ## Commissioning A Model
+
 {: .important }
 If you choose to work with an artist, **always read through the artists post and terms or service carefully** to ensure you know what you are paying for. **It is not the artist's fault if you misunderstood the service they are providing!**
 
