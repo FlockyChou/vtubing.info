@@ -16,13 +16,13 @@ nav_order: 1
 
 -----
 
-The thing I see the most among people who want to get into streaming is wanting to get paid for just playing games and then quickly getting disappointed by their lack of growth. What people seem to forget is that, **first and foremost, streamers are entertainers and entertaining is not easy**.
+The thing I see the most among people who want to get into streaming is wanting to get paid for just playing games and then quickly getting disappointed by their lack of growth. What people seem to forget is that, **first and foremost, streamers are entertainers and entertaining is not easy**. Your value proposition should be providing a more entertaining experience than your viewer can get watching another streamer or playing the game for themselves.
 
 ## How to Be Entertaining When No One is Watching
 
 {% include youtube.html id='uupxfOwyCUk' %}
 
-Your value proposition should be providing a more entertaining experience than your viewer can get watching another streamer or playing the game for themselves. Your question to yourself should be "If I clicked into a stream and someone else was doing what I was doing, would I continue watching or would I click away?" The video above by Zekoz gives some really good advice on how to be engaging when no one is watching and things to keep in mind when starting your streaming career.
+As highlighted in the video above by Zekos, one of the most important things you need to learn how to do is being entertaining when no one is watching. If you are actively watching your view count and only entertaining when you see that someone is watching, chances are it's too late and they may have already left. Your question to yourself should be "At any given time, if someone clicked into my stream, would they have a reason to continue watching or would they click away?" Think about your own experiences clicking into a stream or video and closing it out because it was either boring, too busy, too loud, etc. and use those to gauge your own content.
 
 -----
 
@@ -30,7 +30,7 @@ Your value proposition should be providing a more entertaining experience than y
 
 {% include youtube.html id='1yFG--iv5fQ' %}
 
-While not explicitly relevant to VTubing, Coffeezilla put out a video talking about his 10 years of content creation on YouTube. In it, he highlights a number of lessons he learned during this time making content that I feel is very relevant to people looking into getting into content creation today.
+While not explicitly related to VTubing, Coffeezilla put out a video talking about his 10 years of content creation on YouTube. In it, he highlights a number of lessons he learned during this time making content that I feel is very relevant to people looking into getting into content creation today.
 
 The most relevant takeaways for me are:
 * **Focus on the Long-term** - Wanting to get into content creation with the sole goal of making money will show in your work. Getting paid to do what you love would be great but it should not be the immediate goal.

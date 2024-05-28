@@ -16,12 +16,12 @@ nav_order: 2
 
 -----
 
-I think before we get started on anything, we need to address the elephant in the room. Your computer specs will determine your ability to VTube and what games you'll be able to stream. It's important to note that just because you can play a game without issues, your computer may not be able to handle running the same games, having VTubing software running, and streaming at the same time.
+I think before we get started on anything, we need to address the elephant in the room. Your computer specs will determine your ability to VTube and what games you'll be able to stream. It's important to note that just because you can play a game without issues, your computer may not be able to handle running the same game, having VTubing software running, and streaming at the same time.
 
-While this can be a bit technical, I will try my best to explain things as easily as possible so that people who aren't familiar with computers can understand.
+While this section can be a bit technical, I will try my best to explain things as easily as possible so that people who aren't familiar with computers can understand.
 
-## How Do I Check What I Can Play?
-While there are ways to tell what kind of hardware you have on your computer without downloading anything, the easiest way I've found to get all the information in one place is by downloading and using [Speccy (available on Windows and Mac)](https://www.ccleaner.com/speccy). If you don't feel comfortable downloading something, you can always Google how to do it for your operating system.
+## How Do I Check My Computer Specs?
+While there are ways to tell what kind of specs/hardware you have in your computer without opening anything up or downloading anything, the easiest way I've found to get all the information in one place is by downloading and using [Speccy (available on Windows and Mac)](https://www.ccleaner.com/speccy). If you don't feel comfortable downloading something, you can always Google how to do it for your operating system.
 
 Multiple factors, namely your CPU, RAM, and GPU ("Graphics" in Speccy), will determine whether or not certain games will run smoothly on your computer. You can find out if you can play a game by looking at your hardware and comparing them to the game's minimum requirements, which are often listed on the game's buy page or on it's official site.
 
@@ -30,9 +30,13 @@ Multiple factors, namely your CPU, RAM, and GPU ("Graphics" in Speccy), will det
 ## How Do I Compare Components?
 > What is an i5? And what's the difference between an i5-2300 and i5-6400?
 
-I typically use PassMark ratings to determine what hardware is "better". These are basically benchmark scores given to computer parts based on how well they perform doing certain tasks. Simply search for the name of the CPU or GPU on their respective search pages ([CPU search](https://www.cpubenchmark.net/cpu_list.php), [GPU search](https://www.videocardbenchmark.net/gpu_list.php)) and see if there's any existing benchmark of it.
+While not the most robust, an easy way to determine what hardware is "better" us by using PassMark ratings. These are basically benchmark scores given to computer parts based on how well they perform doing certain tasks.
 
-### Example
+In order to find the PassMark rating for each of your components, simply search for the name of the CPU or GPU on their respective search pages ([CPU search](https://www.cpubenchmark.net/cpu_list.php), [GPU search](https://www.videocardbenchmark.net/gpu_list.php)) and see if there's any existing benchmark of it.
+
+-----
+
+## Example Comparison
 Let's use my current computer's specs and compare them to the [minimum requirements to run Dragon's Dogma 2](https://store.steampowered.com/app/2054970/Dragons_Dogma_2/), a very resource-intensive game that came out recently. Since both Intel and AMD CPUs are listed, as well as NVIDIA and AMD GPUs, we will compare our components with the respective brand listed (bolded).
 
 | Components  | My Computer Specs | Dragon Dogma 2's Minimum Requirements | Status |
@@ -41,17 +45,25 @@ Let's use my current computer's specs and compare them to the [minimum requireme
 | RAM         | 64 GB | 16 GB | PASS |
 | GPU         | [NVIDIA GeForce GTX 1660 SUPER](https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+1660+SUPER&id=4159) <br/> Avg. G3D Mark: 12776 | [NVIDIA GeForce GTX 1070](https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+1070&id=3521) / [AMD Radeon RX 5500 XT with 8GB VRAM](https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+5500+XT&id=4174) <br/> Avg. G3D Mark: **13510** / 9164 | FAIL | 
 
-#### What Does This Mean?
+-----
+
+## What Does This Mean?
+
+{: .note }
 It's important to take everything with a grain of salt. You won't really know if you can run something until you try it out yourself but you can at least rule something in or out if your benchmarking scores are vastly inferior or superior to the minimum requirements of a game.
 
 According to Dragon Dogma 2's Steam page, the minimum requirements are for "1080p/30fps". Keeping the above advice in mind, this means that in theory, I should expect frame drops or stuttering gameplay. I may be able to get it to run more smoothly if I reduced the resolution to 720p and turned down my graphics settings like texture quality, shadow quality, and anti-aliasing.
 
-#### I Still Don't Get It
+-----
+
+## I Still Don't Get It
 If you can't make heads or tails out of any of this, there are also communities that may be able to help you decipher it:
 * [r/CanIRunIt](https://www.reddit.com/r/CanIRunIt/) - "A community with the goal to help computer enthusiasts figure out if they can run certain video games or applications."
 * [r/LowEndGaming](https://www.reddit.com/r/lowendgaming/) - "A community for anyone struggling to find something to play for that older system, or sharing or seeking tips for how to run that shiny new game on yesterday's hardware."
 
-#### What about "Can You RUN It"? (aka systemrequirementslab.com)
+-----
+
+## What about "Can You RUN It"? (aka systemrequirementslab.com)
 [People have found that this site is a bit unreliable.](https://www.reddit.com/r/lowendgaming/comments/4j6no4/how_reliable_is_can_you_run_it/)
 
 -----

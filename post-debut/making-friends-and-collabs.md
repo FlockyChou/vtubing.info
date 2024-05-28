@@ -32,7 +32,7 @@ The key takeaways are:
 
 ## Collabs
 
-As previously featured, [What you need to know as a Vtuber (timestamp relevant)](https://www.youtube.com/watch?v=uupxfOwyCUk&t=365s) by Zekos has a section covering collab etiquette and how to plan one.
+As previously featured, ["What you need to know as a Vtuber" by Zekos (timestamp relevant)](https://www.youtube.com/watch?v=uupxfOwyCUk&t=365s) has a section covering collab etiquette and how to plan one.
 
 ### Collab Software
 
