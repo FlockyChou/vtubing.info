@@ -42,7 +42,7 @@ While not the most robust, an easy way to determine what hardware is "better" us
 
 In order to find the PassMark rating for each of your components, simply search for the name of the CPU or GPU on their respective search pages ([CPU search](https://www.cpubenchmark.net/cpu_list.php), [GPU search](https://www.videocardbenchmark.net/gpu_list.php)) and see if there's any existing benchmark of it.
 
-<div class="code-example">
+<div class="code-example" markdown="1">
 
 ### Example Comparison for Video Games
 
@@ -78,7 +78,7 @@ If you don't meet the minimum requirements, you have 3 options:
 2. Build or buy a new computer
 3. PNGTUber + streaming older games
 
-<div class="code-example">
+<div class="code-example" markdown="1">
 
 ### Upgrade Parts
 If you don't feel comfortable doing this or an older laptop, you may want to look into buying a new computer. Laptops are nearly impossible to upgrade most times and the only components that are easily upgradable are often the hard drive and the RAM.
@@ -96,7 +96,7 @@ If you are looking to build a PC, there are some Reddit communities of people he
 
 If you are looking to buy a pre-built computer, there are some things to take into account:
 
-<div class="code-example">
+<div class="code-example" markdown="1">
 
 #### Desktop
 | Pros  | Cons |
