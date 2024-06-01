@@ -107,6 +107,7 @@ If you are looking to buy a pre-built computer, there are some things to take in
 | Upgradable but only a pro if you intend on doing so. | |
 
 #### Laptop
+
 | Pros  | Cons |
 | ----- | ---- |
 | Have a monitor, keyboard, and touchpad built-in. Often times have webcam and microphone built-in, although you may want to still upgrade these. | Usually cost more than a comparable desktop |
