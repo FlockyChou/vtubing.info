@@ -21,7 +21,7 @@ I think before we get started on anything, we need to address the elephant in th
 While this section can be a bit technical, I will try my best to explain things as easily as possible so that people who aren't familiar with computers can understand.
 
 ## What is the Minimum Computer Specs for VTubing/Streaming?
-The longer answer, as always, is it depends based on what type of model you plan on using and what games you intend on streaming. Multiple factors, namely your CPU, RAM, and GPU, will determine whether or not certain games will run smoothly on your computer. Using a 3D model will put more strain on your computer than a Live2D model, which will put more strain on your computer than a PNGTuber.
+The longer answer, as always, is it depends based on what type of model you plan on using and what games you intend on streaming. Multiple factors (namely your CPU, RAM, and GPU) will determine whether or not certain games will run smoothly on your computer. Using a 3D model will put more strain on your computer than a Live2D model, which will put more strain on your computer than a PNGTuber.
 
 The short answer is that I would recommend **at least**:
 * **CPU:** A modernish-gen i5. I would say this should be anything named "i5-9XXX" or above.
@@ -33,18 +33,20 @@ A computer that I've seen recommended at a price point that checks all these box
 ## How Do I Check My Computer Specs?
 While there are ways to tell what specs/hardware you have in your computer without opening anything up or downloading anything, the easiest way I've found to get all the information in one place is by downloading and using [Speccy (available on Windows and Mac)](https://www.ccleaner.com/speccy). 
 
-![Speccy Interface](assets/images/speccy-specs.jpg)
+![Speccy Interface](../assets/images/speccy-specs.jpg)
 
 If you don't feel comfortable downloading something, you can always Google how to do it for your operating system.
 
 ## How Do I Know if I Meet These Requirements?
+One way to do this is think of a game you may want to stream and make sure your computer specs **exceed** the minimum requirements to account for VTubing software running.
+
 While not the most robust, an easy way to determine what hardware is "better" us by using PassMark ratings. These are basically benchmark scores given to computer parts based on how well they perform doing certain tasks.
 
 In order to find the PassMark rating for each of your components, simply search for the name of the CPU or GPU on their respective search pages ([CPU search](https://www.cpubenchmark.net/cpu_list.php), [GPU search](https://www.videocardbenchmark.net/gpu_list.php)) and see if there's any existing benchmark of it.
 
 <div class="code-example bg-grey-lt-000" markdown="1">
 
-### Example Comparison for Video Games
+### Example Comparison
 
 {: .note }
 It's important to take everything with a grain of salt. You won't really know if you can run something until you try it out yourself but you can at least rule something in or out if your benchmarking scores are vastly inferior or superior to the minimum requirements of a game.
@@ -92,8 +94,8 @@ It is really hard to upgrade old desktops as well, depending on the age. For exa
 
 If you are looking to build a PC, there are some Reddit communities of people helping others build a computer based on their needs:
 
-* https://www.reddit.com/r/buildapc/
-* https://www.reddit.com/r/buildmeapc/
+* [r/BuildAPC](https://www.reddit.com/r/buildapc/) - "A community-driven subreddit dedicated to custom PC assembly. Anyone is welcome to seek the input of our helpful community as they piece together their desktop."
+* [r/BuildMeAPC](https://www.reddit.com/r/buildmeapc/) - "If you are new to computer building, and need someone to help you put parts together for your build or even an experienced builder looking to talk tech you are in the right place!"
 
 If you are looking to buy a pre-built computer, there are some things to take into account:
 
