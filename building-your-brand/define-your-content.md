@@ -1,8 +1,8 @@
 ---
 title: Define Your Content
 layout: default
-parent: Pre-Model
-nav_order: 3
+parent: Building Your Brand
+nav_order: 1
 ---
 
 # Define Your Content

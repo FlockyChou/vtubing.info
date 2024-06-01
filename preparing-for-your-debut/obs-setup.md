@@ -1,7 +1,7 @@
 ---
 title: Setting up OBS Studio
 layout: default
-parent: Pre-Debut
+parent: Preparing For Your Debut
 nav_order: 3
 ---
 

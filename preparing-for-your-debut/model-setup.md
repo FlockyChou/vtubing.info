@@ -1,8 +1,8 @@
 ---
 title: Setting up Your Model
 layout: default
-parent: Pre-Debut
-nav_order: 4
+parent: Preparing For Your Debut
+nav_order: 2
 ---
 
 # Setting up Your Model

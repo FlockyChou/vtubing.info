@@ -1,8 +1,8 @@
 ---
 title: Conceptualizing a Character
 layout: default
-parent: Pre-Model
-nav_order: 4
+parent: Building Your Brand
+nav_order: 2
 ---
 
 # Conceptualizing a Character

@@ -1,8 +1,8 @@
 ---
 title: Naming and Marketing Yourself
 layout: default
-parent: Pre-Debut
-nav_order: 1
+parent: Building Your Brand
+nav_order: 3
 ---
 
 # Naming and Marketing Yourself

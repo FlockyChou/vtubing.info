@@ -1,8 +1,8 @@
 ---
 title: Channel & Social Media Setup
 layout: default
-parent: Pre-Debut
-nav_order: 2
+parent: Building Your Brand
+nav_order: 4
 ---
 
 # Channel & Social Media Setup
