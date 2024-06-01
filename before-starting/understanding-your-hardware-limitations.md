@@ -21,32 +21,29 @@ I think before we get started on anything, we need to address the elephant in th
 While this section can be a bit technical, I will try my best to explain things as easily as possible so that people who aren't familiar with computers can understand.
 
 ## What is the Minimum Computer Specs for VTubing/Streaming?
-The longer answer, as always, is it depends based on what type of model you plan on using and what games you intend on streaming. Multiple factors (namely your CPU, RAM, and GPU) will determine whether or not certain games will run smoothly on your computer. Using a 3D model will put more strain on your computer than a Live2D model, which will put more strain on your computer than a PNGTuber.
+The long answer is it depends based on what type of VTuber model you plan on using and what games you intend on streaming. Multiple factors (namely your CPU, RAM, and GPU) will determine whether or not certain games will run smoothly on your computer. One thing to keep in mind is that your computer will need to **exceed** the minimum requirements of the games you intend on playing in order to account for VTubing and streaming software running as well.
+
+
 
 The short answer is that I would recommend **at least**:
-* **CPU:** A modernish-gen i5. I would say this should be anything named "i5-9XXX" or above.
-* **RAM:** 16 GB of RAM
-* **GPU:** A GTX 1060-equivalent
 
-A computer that I've seen recommended at a price point that checks all these boxes is the [NZXT "Player: One"](https://nzxt.com/product/player-one) at $799 (before taxes). While this isn't an endoresement for this product or company, you can use this as a benchmark in computer specs and price when shopping for other pre-built computers.
+| Component | Recommendation | Price |
+| --------- | -------------- | ----- |
+| CPU | A modernish-gen (10th gen or above) i5 or equivalent | $100 - $250 |
+| RAM | At least 16 GB of RAM | $15 - $55 |
+| GPU | A GTX 1060-equivalent | $150 - $200 |
 
 -----
 
-## How Do I Check My Computer Specs?
-While there are ways to tell what specs/hardware you have in your computer without opening anything up or downloading anything, the easiest way I've found to get all the information in one place is by downloading and using [Speccy (available on Windows and Mac)](https://www.ccleaner.com/speccy). 
+## How Do I Know if I Meet These Requirements?
+**For RAM and CPU (if you have an Intel Core processor)**, you can check if your meet these minimum requirements by using something like [Speccy](https://www.ccleaner.com/speccy). For the CPU, a 10th gen i5 will show as `i5-10XXX`, an 11th gen as `i5-11XXX`, etc.
 
 ![Speccy Interface](../assets/images/speccy-specs.jpg)
 
 If you don't feel comfortable downloading something, you can always Google how to do it for your operating system.
 
------
+**For GPU and CPU (if you don't have an Intel Core processor)**, it will be a bit harder to compare. You can compare benchmark scores by [searching for your GPU]((https://www.videocardbenchmark.net/gpu_list.php)) or [searching for your CPU](https://www.cpubenchmark.net/cpu_list.php) and seeing if their benchmark scores meet or exceed those of the recommended GPU ([GTX 1060](https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+1060&id=3548)) or CPU ([Intel Core i5-10400](https://www.cpubenchmark.net/cpu.php?cpu=Intel+Core+i5-10400+%40+2.90GHz&id=3737)).
 
-## How Do I Know if I Meet These Requirements?
-One way to do this is think of a game you may want to stream and make sure your computer specs **exceed** the minimum requirements to account for VTubing software running.
-
-While not the most robust, an easy way to determine what hardware is "better" us by using PassMark ratings. These are basically benchmark scores given to computer parts based on how well they perform doing certain tasks.
-
-In order to find the PassMark rating for each of your components, simply search for the name of the CPU or GPU on their respective search pages ([CPU search](https://www.cpubenchmark.net/cpu_list.php), [GPU search](https://www.videocardbenchmark.net/gpu_list.php)) and see if there's any existing benchmark of it.
 
 <div class="code-example bg-grey-lt-000" markdown="1">
 
@@ -59,11 +56,11 @@ Let's use my current computer's specs and compare them to the [minimum requireme
 
 | Components  | My Computer Specs | Dragon Dogma 2's Minimum Requirements | Status |
 | ----------- | ----------------- | ------------------------------------- | ------ |
-| CPU         | [AMD Ryzen 5 3600X](https://www.cpubenchmark.net/cpu.php?cpu=AMD+Ryzen+5+3600X&id=3494) <br/> Avg. CPU Mark: 18216| [Intel Core i5 10600](https://www.cpubenchmark.net/cpu.php?cpu=Intel+Core+i5-10600+%40+3.30GHz&id=3750) / [AMD Ryzen 5 3600](https://www.cpubenchmark.net/cpu.php?cpu=AMD+Ryzen+5+3600&id=3481) <br/> Avg. CPU Mark: 13675 / **17767** | PASS
-| RAM         | 64 GB | 16 GB | PASS |
-| GPU         | [NVIDIA GeForce GTX 1660 SUPER](https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+1660+SUPER&id=4159) <br/> Avg. G3D Mark: 12776 | [NVIDIA GeForce GTX 1070](https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+1070&id=3521) / [AMD Radeon RX 5500 XT with 8GB VRAM](https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+5500+XT&id=4174) <br/> Avg. G3D Mark: **13510** / 9164 | FAIL | 
+| CPU         | [AMD Ryzen 5 3600X](https://www.cpubenchmark.net/cpu.php?cpu=AMD+Ryzen+5+3600X&id=3494) <br/> Avg. CPU Mark: 18216| [Intel Core i5 10600](https://www.cpubenchmark.net/cpu.php?cpu=Intel+Core+i5-10600+%40+3.30GHz&id=3750) / [AMD Ryzen 5 3600](https://www.cpubenchmark.net/cpu.php?cpu=AMD+Ryzen+5+3600&id=3481) <br/> Avg. CPU Mark: 13675 / **17767** | <span class="text-green-000">**PASS**</span> |
+| RAM         | 64 GB | 16 GB | <span class="text-green-000">**PASS**</span> |
+| GPU         | [NVIDIA GeForce GTX 1660 SUPER](https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+1660+SUPER&id=4159) <br/> Avg. G3D Mark: 12776 | [NVIDIA GeForce GTX 1070](https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+1070&id=3521) / [AMD Radeon RX 5500 XT with 8GB VRAM](https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+5500+XT&id=4174) <br/> Avg. G3D Mark: **13510** / 9164 | <span class="text-red-000">**FAIL**</span> | 
 
-According to Dragon Dogma 2's Steam page, the minimum requirements are for "1080p/30fps". Keeping the above advice in mind, this means that in theory, I should expect frame drops or stuttering gameplay. I may be able to get it to run more smoothly if I reduced the resolution to 720p and turned down my graphics settings like texture quality, shadow quality, and anti-aliasing.
+According to Dragon Dogma 2's Steam page, the minimum requirements are for "1080p/30fps". Keeping the above advice in mind, this means that in theory, I should expect frame drops or stuttering gameplay when running the game alone **before** accounting for VTubing and streaming software. I **might** be able to get it to run more smoothly and stream it if I reduced the resolution to 720p and turned down additional graphics settings like texture quality, shadow quality, and anti-aliasing.
 
 -----
 
@@ -96,23 +93,31 @@ It is really hard to upgrade old desktops as well, depending on the age. For exa
 
 ### Build or Buy a Computer
 
-If you are looking to build a PC, there are some Reddit communities of people helping others build a computer based on their needs:
+#### Building a Computer
 
+{: .warning }
+I would not recommend building a computer if you do not know what you are doing. Building a computer can be cheaper than buying a pre-built one but if you are not handling or installing components correctly, you could easily cause irreparable damage to them.
+
+If you are experienced and looking to build a PC, but need suggestions on hardware that fit your budget, you can check out these Reddit communities:
 * [r/BuildAPC](https://www.reddit.com/r/buildapc/) - "A community-driven subreddit dedicated to custom PC assembly. Anyone is welcome to seek the input of our helpful community as they piece together their desktop."
 * [r/BuildMeAPC](https://www.reddit.com/r/buildmeapc/) - "If you are new to computer building, and need someone to help you put parts together for your build or even an experienced builder looking to talk tech you are in the right place!"
 
-If you are looking to buy a pre-built computer, there are some things to take into account:
+#### Buying a Computer
+
+If you are looking to buy a pre-built computer, a computer that I’ve seen recommended at a price point that checks all these boxes is the [NZXT “Player: One” at $799 (before taxes)](https://nzxt.com/product/player-one). While this isn’t an endoresement for this product or company, you can use this as a benchmark in computer specs and price when shopping for other pre-built computers.
+
+However, before pulling the trigger, there are some things to take into account:
 
 <div class="code-example bg-white" markdown="1">
 
-#### Desktop
+##### Desktop
 
 | Pros  | Cons |
 | ----- | ---- |
 | Usually cheaper than a comparable laptop | Hidden cost of monitor, keyboard, mouse, webcam, and microphone. |
 | Upgradable but only a pro if you intend on doing so. | |
 
-#### Laptop
+##### Laptop
 
 | Pros  | Cons |
 | ----- | ---- |
