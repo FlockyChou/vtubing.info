@@ -42,9 +42,9 @@ While not the most robust, an easy way to determine what hardware is "better" us
 
 In order to find the PassMark rating for each of your components, simply search for the name of the CPU or GPU on their respective search pages ([CPU search](https://www.cpubenchmark.net/cpu_list.php), [GPU search](https://www.videocardbenchmark.net/gpu_list.php)) and see if there's any existing benchmark of it.
 
-<div class="code-example" markdown="1">
+<div class="code-example bg-grey-lt-000" markdown="1">
 
-### Example Comparison for Video Games
+### Example Comparison for Video Games {.mt-0}
 
 {: .note }
 It's important to take everything with a grain of salt. You won't really know if you can run something until you try it out yourself but you can at least rule something in or out if your benchmarking scores are vastly inferior or superior to the minimum requirements of a game.
@@ -78,9 +78,10 @@ If you don't meet the minimum requirements, you have 3 options:
 2. Build or buy a new computer
 3. PNGTUber + streaming older games
 
-<div class="code-example" markdown="1">
+<div class="code-example bg-grey-lt-000" markdown="1">
 
-### Upgrade Parts
+### Upgrade Parts {.mt-0}
+
 If you don't feel comfortable doing this or an older laptop, you may want to look into buying a new computer. Laptops are nearly impossible to upgrade most times and the only components that are easily upgradable are often the hard drive and the RAM.
 
 It is really hard to upgrade old desktops as well, depending on the age. For example, if your motherboard only supports DDR2 RAM, it can be both very hard and very expensive to upgrade. Additionally, newer processors will be incompatible with older motherboards as well, so there will almost always be some sort of bottleneck. This was the problem I faced with my 10 yr old desktop that is now relegated to being a small Minecraft server.
@@ -98,7 +99,8 @@ If you are looking to buy a pre-built computer, there are some things to take in
 
 <div class="code-example" markdown="1">
 
-#### Desktop
+#### Desktop {.mt-0}
+
 | Pros  | Cons |
 | ----- | ---- |
 | Usually cheaper than a comparable laptop | Hidden cost of monitor, keyboard, mouse, webcam, and microphone. |
