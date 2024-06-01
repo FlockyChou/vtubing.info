@@ -23,15 +23,22 @@ While this section can be a bit technical, I will try my best to explain things 
 ## What is the Minimum Computer Specs for VTubing/Streaming?
 The long answer is it depends based on what type of VTuber model you plan on using and what games you intend on streaming. Multiple factors (namely your CPU, RAM, and GPU) will determine whether or not certain games will run smoothly on your computer. One thing to keep in mind is that your computer will need to **exceed** the minimum requirements of the games you intend on playing in order to account for VTubing and streaming software running as well.
 
-
-
 The short answer is that I would recommend **at least**:
 
-| Component | Recommendation | Price |
-| --------- | -------------- | ----- |
-| CPU | A modernish-gen (10th gen or above) i5 or equivalent | $100 - $250 |
-| RAM | At least 16 GB of RAM | $15 - $55 |
-| GPU | A GTX 1060-equivalent | $150 - $200 |
+| Component | Recommendation
+| --------- | -------------- |
+| CPU | A modernish-gen (10th gen or above) i5 or equivalent
+| RAM | At least 16 GB of RAM
+| GPU | A GTX 1060-equivalent
+
+### Hololive Comparison
+Here is how the minimum requirements compare to some of the computers used by the talents in Hololive (data from [2021]((https://www.reddit.com/r/Hololive/comments/ko50fu/hololive_member_pc_specs_cpu_and_gpu/)) and [2023](https://www.reddit.com/r/Hololive/comments/113mf3n/nene_casual_pc_specs_flex/), RAM is speculative):
+
+| Component | Minimum | Median | Maximum |
+| --------- | ------- | ------ | ------- |
+| CPU | [Intel Core i5-10400](https://www.cpubenchmark.net/cpu.php?cpu=Intel+Core+i5-10400+%40+2.90GHz&id=3737) <br/> Avg. CPU Mark: 12130 <br/> Price: $75-150 | [Intel Core i9-9900K](https://www.cpubenchmark.net/cpu.php?cpu=Intel+Core+i9-9900K+%40+3.60GHz&id=3334) <br/> Avg. CPU Mark: 18311 <br/> Price: $250-400 | [Intel Core i9-13900KF](https://www.cpubenchmark.net/cpu.php?cpu=Intel+Core+i9-13900KF) <br/> Avg. CPU Mark: 58656 <br/> Price: $400-600
+| RAM | 16 GB <br/> Price: $50-100 | 64 GB <br/> Price: $150-250 | 128 GB <br/> Price: $300-500
+| GPU | [GTX 1060](https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+1060&id=3548) <br/> Avg. G3D Mark: 10073 <br/> Price: $50-150 | [GTX 2080 Ti](https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+2080+Ti&id=3991) <br/> Avg. G3D Mark: 21785 <br/> Price: $200-400 | [GTX 4080](https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+4080&id=4622) <br/> Avg. G3D Mark: 34610 <br/> Price: $800-1200
 
 -----
 
