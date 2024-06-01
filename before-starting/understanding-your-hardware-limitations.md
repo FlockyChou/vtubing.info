@@ -44,7 +44,7 @@ In order to find the PassMark rating for each of your components, simply search 
 
 <div class="code-example bg-grey-lt-000" markdown="1">
 
-### Example Comparison for Video Games {.mt-0}
+### Example Comparison for Video Games
 
 {: .note }
 It's important to take everything with a grain of salt. You won't really know if you can run something until you try it out yourself but you can at least rule something in or out if your benchmarking scores are vastly inferior or superior to the minimum requirements of a game.
@@ -80,7 +80,7 @@ If you don't meet the minimum requirements, you have 3 options:
 
 <div class="code-example bg-grey-lt-000" markdown="1">
 
-### Upgrade Parts {.mt-0}
+### Upgrade Parts
 
 If you don't feel comfortable doing this or an older laptop, you may want to look into buying a new computer. Laptops are nearly impossible to upgrade most times and the only components that are easily upgradable are often the hard drive and the RAM.
 
@@ -97,9 +97,9 @@ If you are looking to build a PC, there are some Reddit communities of people he
 
 If you are looking to buy a pre-built computer, there are some things to take into account:
 
-<div class="code-example" markdown="1">
+<div class="code-example bg-white" markdown="1">
 
-#### Desktop {.mt-0}
+#### Desktop
 
 | Pros  | Cons |
 | ----- | ---- |
