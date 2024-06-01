@@ -30,12 +30,16 @@ The short answer is that I would recommend **at least**:
 
 A computer that I've seen recommended at a price point that checks all these boxes is the [NZXT "Player: One"](https://nzxt.com/product/player-one) at $799 (before taxes). While this isn't an endoresement for this product or company, you can use this as a benchmark in computer specs and price when shopping for other pre-built computers.
 
+-----
+
 ## How Do I Check My Computer Specs?
 While there are ways to tell what specs/hardware you have in your computer without opening anything up or downloading anything, the easiest way I've found to get all the information in one place is by downloading and using [Speccy (available on Windows and Mac)](https://www.ccleaner.com/speccy). 
 
 ![Speccy Interface](../assets/images/speccy-specs.jpg)
 
 If you don't feel comfortable downloading something, you can always Google how to do it for your operating system.
+
+-----
 
 ## How Do I Know if I Meet These Requirements?
 One way to do this is think of a game you may want to stream and make sure your computer specs **exceed** the minimum requirements to account for VTubing software running.
