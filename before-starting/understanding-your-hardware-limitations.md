@@ -42,7 +42,7 @@ The short answer is that I would recommend **at least**:
 
 If you don't feel comfortable downloading something, you can always Google how to do it for your operating system.
 
-**For GPU and CPU (if you don't have an Intel Core processor)**, it will be a bit harder to compare. You can compare benchmark scores by [searching for your GPU]((https://www.videocardbenchmark.net/gpu_list.php)) or [searching for your CPU](https://www.cpubenchmark.net/cpu_list.php) and seeing if their benchmark scores meet or exceed those of the recommended GPU ([GTX 1060](https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+1060&id=3548)) or CPU ([Intel Core i5-10400](https://www.cpubenchmark.net/cpu.php?cpu=Intel+Core+i5-10400+%40+2.90GHz&id=3737)).
+**For GPU and CPU (if you don't have an Intel Core processor)**, it will be a bit harder to compare. You can compare benchmark scores by [searching for your GPU](https://www.videocardbenchmark.net/gpu_list.php) or [searching for your CPU](https://www.cpubenchmark.net/cpu_list.php) and seeing if their benchmark scores meet or exceed those of the recommended GPU ([GTX 1060](https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+1060&id=3548)) or CPU ([Intel Core i5-10400](https://www.cpubenchmark.net/cpu.php?cpu=Intel+Core+i5-10400+%40+2.90GHz&id=3737)).
 
 
 <div class="code-example bg-grey-lt-000" markdown="1">
@@ -62,18 +62,21 @@ Let's use my current computer's specs and compare them to the [minimum requireme
 
 According to Dragon Dogma 2's Steam page, the minimum requirements are for "1080p/30fps". Keeping the above advice in mind, this means that in theory, I should expect frame drops or stuttering gameplay when running the game alone **before** accounting for VTubing and streaming software. I **might** be able to get it to run more smoothly and stream it if I reduced the resolution to 720p and turned down additional graphics settings like texture quality, shadow quality, and anti-aliasing.
 
------
+</div>
 
 ### Additional Resources
-If you can't make heads or tails out of any of this, there are also communities that may be able to help you decipher it:
+
+If you can't make heads or tails out of any of this, there are also communities that may be able to help you decipher whether or not you can run a game:
+
 * [r/CanIRunIt](https://www.reddit.com/r/CanIRunIt/) - "A community with the goal to help computer enthusiasts figure out if they can run certain video games or applications."
 * [r/LowEndGaming](https://www.reddit.com/r/lowendgaming/) - "A community for anyone struggling to find something to play for that older system, or sharing or seeking tips for how to run that shiny new game on yesterday's hardware."
-
-</div>
 
 -----
 
 ## What Do I Do if I Don't Meet The Minimum Requirements?
+
+{: .warning }
+I would not recommend upgrading or building a computer if you do not know what you are doing. Building a computer can be cheaper than buying a pre-built one but if you are not handling or installing components correctly, you could easily cause irreparable damage to them.
 
 If you don't meet the minimum requirements, you have 3 options:
 
@@ -85,18 +88,15 @@ If you don't meet the minimum requirements, you have 3 options:
 
 ### Upgrade Parts
 
-If you don't feel comfortable doing this or an older laptop, you may want to look into buying a new computer. Laptops are nearly impossible to upgrade most times and the only components that are easily upgradable are often the hard drive and the RAM.
+If, like the example above, your computer meets most of the minimum requirements but needs an upgrade in only a few departments, you may be able to upgrade it. However, keep in mind that this might be difficult if you have a laptop or an older desktop.
 
-It is really hard to upgrade old desktops as well, depending on the age. For example, if your motherboard only supports DDR2 RAM, it can be both very hard and very expensive to upgrade. Additionally, newer processors will be incompatible with older motherboards as well, so there will almost always be some sort of bottleneck. This was the problem I faced with my 10 yr old desktop that is now relegated to being a small Minecraft server.
+Laptops are nearly impossible to upgrade and the only components that are easily upgradable are often the hard drive and the RAM and old desktops are held back by their motherboard, which limits what other components are compatible with it. While you can upgrade a desktop's motherboard, you would basically be building a computer pretty much from scratch at that point.
 
 -----
 
 ### Build or Buy a Computer
 
 #### Building a Computer
-
-{: .warning }
-I would not recommend building a computer if you do not know what you are doing. Building a computer can be cheaper than buying a pre-built one but if you are not handling or installing components correctly, you could easily cause irreparable damage to them.
 
 If you are experienced and looking to build a PC, but need suggestions on hardware that fit your budget, you can check out these Reddit communities:
 * [r/BuildAPC](https://www.reddit.com/r/buildapc/) - "A community-driven subreddit dedicated to custom PC assembly. Anyone is welcome to seek the input of our helpful community as they piece together their desktop."
@@ -130,6 +130,7 @@ However, before pulling the trigger, there are some things to take into account:
 -----
 
 ### PNGTuber + Streaming Older Games
-If you are running on older hardware or a laptop with an integrated graphics chip, it may be best to start as a PNGTuber playing retro or indie games that require less resources.
+
+If you are running on older hardware or a laptop with an integrated graphics chip and don't have the resources for an upgrade, it may be best to start as a PNGTuber playing retro or indie games that require less resources.
 
 </div>
