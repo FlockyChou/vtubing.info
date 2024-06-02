@@ -1,8 +1,8 @@
 ---
 title: Channel & Social Media Setup
 layout: default
-parent: Building Your Brand
-nav_order: 4
+parent: Preparing For Your Debut
+nav_order: 2
 ---
 
 # Channel & Social Media Setup
@@ -33,7 +33,7 @@ However, it's not all fun and games over at Twitch. Twitch streams tend to be mo
 
 The video above talks about some of the pros and cons of multistreaming/simulstreaming. The main takeaways is that, as a new streaming, maintaining and growing on 1 platform is hard enough. You should focus on growing you main audience rather than stretching yourself too thin.
 
-And I agree. From personal experience, as a viewer, simulstreams are fun to watch but often only if you're a Twitch user. Viewers on YouTube often feel like an afterthought and it shows not only in the view count but also in the chat. In my journey to find more indie VTubers to watch, I have been in countless streams on YouTube where there is 1 viewer, only to find that there are streaming on Twitch to 50 viewers. Often times, their YouTube livestream chats have only 1 message: "can you see this?"
+And I agree. From personal experience, as a viewer, simulstreams are fun to watch but often only if you're a Twitch user. Due to [Twitch's simulcasting guidelines](https://help.twitch.tv/s/article/simulcasting-guidelines), anyone who streams on Twitch is required to prioritize their Twitch chat and experience. This results in viewers on YouTube and other platforms feeling like an afterthought and it shows not only in the view count but also in the engagement. In my journey to find more indie VTubers to watch, I have been in countless streams on YouTube where there is 1 viewer, only to find that there are streaming on Twitch to 50 viewers. Often times, their YouTube livestream chats have only 1 message for the entire stream: "can you see this?"
 
 As someone who watched VTubers almost exclusively on YouTube, my advice is that of the video's: if you are getting 100 viewers on Twitch and 2 viewers on YouTube, focus your efforts on growing on Twitch; you're not really enticing your YouTube viewers to subscribe anyways.
 

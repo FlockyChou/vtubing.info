@@ -2,7 +2,7 @@
 title: Setting up OBS Studio
 layout: default
 parent: Preparing For Your Debut
-nav_order: 3
+nav_order: 4
 ---
 
 # Setting up OBS Studio
