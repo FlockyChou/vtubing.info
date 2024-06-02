@@ -32,6 +32,7 @@ The video above by Squiiji does a real good job highlighting a lot of time and m
   * Please note that a friend does not always mean a collab partner and a collab partner doesn't always mean a friend. 
   * Collabs can be strictly business, where both parties benefit from each other where that be being able to play new and different games or gaining access to each other's audience.
   * There is a difference between networking and clout chasing. Reaching out to someone the sole purpose to benefit from their platform, audience reach, and to ride their coattails is a scummy move.
+  * More information on this is detailed in [a later section](https://vtubing.info/post-debut/making-friends-and-collabs.html).
 * **You Need Drive/Passion** - As I stated above, if your goal is to sit around and play games all day while incidentally streaming it all, you might not get very far. Your interest and passion (or lackthereof) will show in your work and your audience will be able to tell.
     * If you find your growth stagnating, it's important to self-reflect on why you think that is and make changes rather than just blame your model or the algorithm.
 * **Models/Assets/Art Can be Expensive** - Think long and hard about your character design because if you change your mind, it may be costly.
