@@ -43,7 +43,9 @@ You can calculate your your own custom bitrate using [a bitrate calculator](http
 
 ## Mbps? mbps?
 
-Typically, your internet speed is measured in Mbps (megabits per second). This is different from mbps (megabytes per second). This makes calculating speed a bit annoying as 8 megabits (Mb) = 1 megabyte (MB), which you might recognize as the unit used to display how big a file is on your computer. Why is it done like this? Probably to make it look like you are getting more than what you're paying for.
+Typically, your internet speed is measured in Mbps (megabits per second). This is different from mbps (megabytes per second), megabytes being commonly known as the unit used to display how big a file is on your phone or computer.
+
+This makes calculating speed a bit annoying as 8 megabits (Mb) = 1 megabyte (MB). Why is it done like this? Probably to make it look like you are getting more than what you're paying for.
 
 However, this means that, in theory, on a 100 Mbps internet connection, it should take you 0.08 seconds to download a 1 MB file and 80 seconds to download a 1 GB (gigabyte) file. This also means that on a "gigabit connection", it does **not** mean that you can download 1 GB file in a second. Using the conversion we used before, it would take 8 seconds.
 
