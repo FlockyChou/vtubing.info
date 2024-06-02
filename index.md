@@ -6,18 +6,16 @@ nav_order: 1
 
 # Home
 
-![Cheap VTubing](assets/images/cheap-vtubing-logo.png)
+![VTubing Info](assets/images/vtubing-info-logo.png)
 
-> VTubing doesn't have to be expensive. You can start your VTubing journey with a laptop and free software, assets, and games. You just need to get started.
+> VTubing doesn't have to be hard. You just need to get started.
 
 ## Mission
 
 {: .note }
 This guide is currently extremely WIP as I gather my thoughts and resources, and determine the overall structure.
 
-The reason this guide wasn't titled "VTubing for Free" is because, between needing to have access to a computer and an internet connection, money already needs to be spent. Additionally, a lot of time and money will be required if you aim to be a successful content creator.
-
-What this guide ***will*** try to do is provide and the cheapest and most straightforward path from knowing absolutely nothing about streaming to your first broadcast, regardless of your technical knowledge or experience.
+What this guide will try to do is provide the most straightforward path from knowing absolutely nothing about streaming to your first broadcast, regardless of your technical knowledge or experience.
 
 I have personally gone through each recommended website and resource in order to either (1) make sure they are as straightforward as possible and not overwhelming or (2) summarize and simplify them so they can be more easily understood.
 
