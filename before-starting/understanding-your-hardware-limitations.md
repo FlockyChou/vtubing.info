@@ -16,12 +16,12 @@ nav_order: 1
 
 -----
 
-I think before we get started on anything, we need to address the elephant in the room. Your computer specs will determine your ability to VTube and stream in general. It's important to note that just because you can play a game without issues normally, your computer may not be able to handle running the same game, having VTubing software running, and streaming at the same time.
+I think before we get started on anything, we need to address the elephant in the room. Your computer specs will determine your ability to VTube and stream in general.
 
 While this section can be a bit technical, I will try my best to explain things as easily as possible so that people who aren't familiar with computers can understand.
 
 ## What is the Minimum Computer Specs for VTubing/Streaming?
-The long answer is it depends based on what type of VTuber model you plan on using and what games you intend on streaming. Multiple factors (namely your CPU, RAM, and GPU) will determine whether or not certain games will run smoothly on your computer. One thing to keep in mind is that your computer will need to **exceed** the minimum requirements of the games you intend on playing in order to account for VTubing and streaming software running as well.
+The long answer is it depends based on what type of VTuber model you plan on using and what games you intend on streaming. Multiple factors (namely your CPU, RAM, and GPU) will determine whether or not certain games will run smoothly on your computer. It's important to note that your computer will need to **exceed** the minimum requirements of the games you intend on playing in order to account for VTubing and streaming software running as well.
 
 The short answer is that I would recommend **at least**:
 
@@ -43,9 +43,10 @@ Here is how the minimum requirements compare to some of the computers used by th
 -----
 
 ## How Do I Know if I Meet These Requirements?
-**For RAM and CPU (if you have an Intel Core processor)**, you can check if your meet these minimum requirements by using something like [Speccy](https://www.ccleaner.com/speccy). For the CPU, a 10th gen i5 will show as `i5-10XXX`, an 11th gen as `i5-11XXX`, etc.
 
 ![Speccy Interface](../assets/images/speccy-specs.jpg)
+
+**For RAM and CPU (if you have an Intel Core processor)**, you can check if your meet these minimum requirements by using something like [Speccy](https://www.ccleaner.com/speccy) (pictured above). For the CPU, a 10th gen i5 will show as `i5-10XXX`, an 11th gen as `i5-11XXX`, etc.
 
 If you don't feel comfortable downloading something, you can always Google how to do it for your operating system.
 
@@ -97,7 +98,9 @@ If you don't meet the minimum requirements, you have 3 options:
 
 If, like the example above, your computer meets most of the minimum requirements but needs an upgrade in only a few departments, you may be able to upgrade it. However, keep in mind that this might be difficult if you have a laptop or an older desktop.
 
-Laptops are nearly impossible to upgrade and the only components that are easily upgradable are often the hard drive and the RAM and old desktops are held back by their motherboard, which limits what other components are compatible with it. While you can upgrade a desktop's motherboard, you would basically be building a computer pretty much from scratch at that point.
+Laptops are nearly impossible to upgrade and the only components that are easily upgradable are often the hard drive and the RAM.
+
+Old desktops are held back by their motherboard, which limits what other components are compatible with it. While you can upgrade a desktop's motherboard, you would basically be building a computer pretty much from scratch at that point.
 
 -----
 
@@ -105,15 +108,15 @@ Laptops are nearly impossible to upgrade and the only components that are easily
 
 #### Building a Computer
 
-If you are experienced and looking to build a PC, but need suggestions on hardware that fit your budget, you can check out these Reddit communities:
+If you are experienced and looking to build a PC but need suggestions on hardware that fit your budget or help with hardware compatibility, you can check out these Reddit communities:
 * [r/BuildAPC](https://www.reddit.com/r/buildapc/) - "A community-driven subreddit dedicated to custom PC assembly. Anyone is welcome to seek the input of our helpful community as they piece together their desktop."
 * [r/BuildMeAPC](https://www.reddit.com/r/buildmeapc/) - "If you are new to computer building, and need someone to help you put parts together for your build or even an experienced builder looking to talk tech you are in the right place!"
 
 #### Buying a Computer
 
-If you are looking to buy a pre-built computer, a computer that I’ve seen recommended at a price point that checks all these boxes is the [NZXT “Player: One” at $799 (before taxes)](https://nzxt.com/product/player-one). While this isn’t an endoresement for this product or company, you can use this as a benchmark in computer specs and price when shopping for other pre-built computers.
+If you are looking to buy a pre-built computer, a computer that I’ve seen recommended at a price point that checks all these boxes is the [NZXT “Player: One” at $799 (before taxes)](https://nzxt.com/product/player-one). While this isn’t an endorsement for this product or company, you can use this as a benchmark in computer specs and price when shopping for other pre-built computers.
 
-However, before pulling the trigger, there are some things to take into account:
+However, before pulling the trigger on a new computer, there are some things to take into account for desktops vs laptops:
 
 <div class="code-example bg-white" markdown="1">
 
@@ -121,14 +124,14 @@ However, before pulling the trigger, there are some things to take into account:
 
 | Pros  | Cons |
 | ----- | ---- |
-| Usually cheaper than a comparable laptop | Hidden cost of monitor, keyboard, mouse, webcam, and microphone. |
-| Upgradable but only a pro if you intend on doing so. | |
+| Usually cheaper than a comparable laptop | Hidden cost of monitor, keyboard, mouse, webcam, and microphone |
+| Upgradable but only a pro if you intend on doing so | |
 
 ##### Laptop
 
 | Pros  | Cons |
 | ----- | ---- |
-| Have a monitor, keyboard, and touchpad built-in. Often times have webcam and microphone built-in, although you may want to still upgrade these. | Usually cost more than a comparable desktop |
+| Have a monitor, keyboard, and touchpad built-in. Often times have webcam and microphone built-in, although you may want to still upgrade these ASAP. | Usually cost more than a comparable desktop |
 | | Less upgradable (often only RAM and hard drive) |
 | | A desktop CPU and GPU and not the same as a laptop CPU and GPU. Laptop hardware is often less beefy than their desktop counterparts, despite having the same or similar names.
 
