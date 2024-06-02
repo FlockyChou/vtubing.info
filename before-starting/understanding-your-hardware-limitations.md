@@ -118,8 +118,6 @@ If you are looking to buy a pre-built computer, a computer that I’ve seen reco
 
 However, before pulling the trigger on a new computer, there are some things to take into account for desktops vs laptops:
 
-<div class="code-example bg-white" markdown="1">
-
 ##### Desktop
 
 | Pros  | Cons |
@@ -134,8 +132,6 @@ However, before pulling the trigger on a new computer, there are some things to 
 | Have a monitor, keyboard, and touchpad built-in. Often times have webcam and microphone built-in, although you may want to still upgrade these ASAP. | Usually cost more than a comparable desktop |
 | | Less upgradable (often only RAM and hard drive) |
 | | A desktop CPU and GPU and not the same as a laptop CPU and GPU. Laptop hardware is often less beefy than their desktop counterparts, despite having the same or similar names.
-
-</div>
 
 -----
 
