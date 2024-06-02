@@ -24,14 +24,24 @@ The thing I see the most among people who want to get into streaming is wanting 
 
 The video above by Squiiji does a real good job highlighting a lot of time and money sinks that most people don't consider when first trying to get into VTubing or content creation in general. I think a lot of very important things are covered in this video, including:
 
-* Consistency
-* Being Entertaining
-* Taking Things Seriously
-* Self-reflection
-* Computer Hardware -- Covered Later
-* Investing in Upgrades -- Covered Later
+* **Consistency is Key** - While consistency is a key factor the algorithm looks for, creating content consistently also helps build your audience by letting them know when you're streaming.
+* **You Need to Be a Jack of All Trades** - Between creating and editing content, posting on multiple social media platforms, promoting and marketing yourself, and engaging with your audience, being a VTuber requires a wide set of skills.
+* **You Need to Be Entertaining** - What makes you stand out from the competition? Are you a really skilled gamer? Are you really knowledgable about a certain subject? Are you a good teacher?
+  * More information on this is detailed in it's own sub-section below.
+* **Networking is Important** - Whether it's making friends or collab partners, you **will** need to step out of your comfort zone if you're an introvert.
+  * Please note that a friend does not always mean a collab partner and a collab partner doesn't always mean a friend. 
+  * Collabs can be strictly business, where both parties benefit from each other where that be being able to play new and different games or gaining access to each other's audience.
+  * There is a difference between networking and clout chasing. Reaching out to someone the sole purpose to benefit from their platform, audience reach, and to ride their coattails is a scummy move.
+* **You Need Drive/Passion** - As I stated above, if your goal is to sit around and play games all day while incidentally streaming it all, you might not get very far. Your interest and passion (or lackthereof) will show in your work and your audience will be able to tell.
+    * If you find your growth stagnating, it's important to self-reflect on why you think that is and make changes rather than just blame your model or the algorithm.
+* **Models/Assets/Art Can be Expensive** - Think long and hard about your character design because if you change your mind, it may be costly.
+  * There is no shame in using a PNGTuber. In fact, there are plenty of PNGTubers that are YouTube or Twitch Partners.
+  * Instead of spending money on an expensive model, you can alternatively use that money to take singing lessons, learn how to edit your videos more proficiently, etc.
+* **Computer Hardware** - This is covered in [a previous section](https://vtubing.info/before-starting/understanding-your-hardware-limitations.html).
+* **Investing in Upgrades** - This is covered in [a later section](https://vtubing.info/post-debut/peripheral-upgrades.html).
+* **Prepare for Negative Interactions** - Due to [kayfabe](https://en.wikipedia.org/wiki/Kayfabe) and VTubing culture being built upon [idol culture](https://en.wikipedia.org/wiki/Japanese_idol#Criticism), viewers can often forget there is a human being on the other side of the screen. Parasocial behaviors may occur that push your personal boundaries or make you uncomfortable. It's important to set strict guidelines and work to building a safe community for yourself and your viewers from the start.
 
-## How to Be Entertaining When No One is Watching
+### How to Be Entertaining When No One is Watching
 
 {% include youtube.html id='uupxfOwyCUk' %}
 
