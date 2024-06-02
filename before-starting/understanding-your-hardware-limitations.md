@@ -31,15 +31,6 @@ The short answer is that I would recommend **at least**:
 | RAM | At least 16 GB of RAM
 | GPU | A GTX 1060-equivalent
 
-### Hololive Comparison
-Here is how the minimum requirements compare to some of the computers used by the talents in Hololive (data from [2021]((https://www.reddit.com/r/Hololive/comments/ko50fu/hololive_member_pc_specs_cpu_and_gpu/)) and [2023](https://www.reddit.com/r/Hololive/comments/113mf3n/nene_casual_pc_specs_flex/), RAM is speculative):
-
-| Component | Minimum | Median | Maximum |
-| --------- | ------- | ------ | ------- |
-| CPU | [Intel Core i5-10400](https://www.cpubenchmark.net/cpu.php?cpu=Intel+Core+i5-10400+%40+2.90GHz&id=3737) <br/> Avg. CPU Mark: 12130 <br/> Price: $75-150 | [Intel Core i9-9900K](https://www.cpubenchmark.net/cpu.php?cpu=Intel+Core+i9-9900K+%40+3.60GHz&id=3334) <br/> Avg. CPU Mark: 18311 <br/> Price: $250-400 | [Intel Core i9-13900KF](https://www.cpubenchmark.net/cpu.php?cpu=Intel+Core+i9-13900KF) <br/> Avg. CPU Mark: 58656 <br/> Price: $400-600
-| RAM | 16 GB <br/> Price: $50-100 | 64 GB <br/> Price: $150-250 | 128 GB <br/> Price: $300-500
-| GPU | [GTX 1060](https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+1060&id=3548) <br/> Avg. G3D Mark: 10073 <br/> Price: $50-150 | [GTX 2080 Ti](https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+2080+Ti&id=3991) <br/> Avg. G3D Mark: 21785 <br/> Price: $200-400 | [GTX 4080](https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+4080&id=4622) <br/> Avg. G3D Mark: 34610 <br/> Price: $800-1200
-
 -----
 
 ## How Do I Know if I Meet These Requirements?
@@ -71,6 +62,15 @@ Let's use my current computer's specs and compare them to the [minimum requireme
 According to Dragon Dogma 2's Steam page, the minimum requirements are for "1080p/30fps". Keeping the above advice in mind, this means that in theory, I should expect frame drops or stuttering gameplay when running the game alone **before** accounting for VTubing and streaming software. I **might** be able to get it to run more smoothly and stream it if I reduced the resolution to 720p and turned down additional graphics settings like texture quality, shadow quality, and anti-aliasing.
 
 </div>
+
+### Hololive Comparison
+Here is how the minimum requirements compare to some of the computers used by the talents in Hololive (data from [2021]((https://www.reddit.com/r/Hololive/comments/ko50fu/hololive_member_pc_specs_cpu_and_gpu/)) and [2023](https://www.reddit.com/r/Hololive/comments/113mf3n/nene_casual_pc_specs_flex/), RAM is speculative):
+
+| Component | Minimum | Median | Maximum |
+| --------- | ------- | ------ | ------- |
+| CPU | [Intel Core i5-10400](https://www.cpubenchmark.net/cpu.php?cpu=Intel+Core+i5-10400+%40+2.90GHz&id=3737) <br/> Avg. CPU Mark: 12130 <br/> Price: $75-150 | [Intel Core i9-9900K](https://www.cpubenchmark.net/cpu.php?cpu=Intel+Core+i9-9900K+%40+3.60GHz&id=3334) <br/> Avg. CPU Mark: 18311 <br/> Price: $250-400 | [Intel Core i9-13900KF](https://www.cpubenchmark.net/cpu.php?cpu=Intel+Core+i9-13900KF) <br/> Avg. CPU Mark: 58656 <br/> Price: $400-600
+| RAM | 16 GB <br/> Price: $50-100 | 64 GB <br/> Price: $150-250 | 128 GB <br/> Price: $300-500
+| GPU | [GTX 1060](https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+1060&id=3548) <br/> Avg. G3D Mark: 10073 <br/> Price: $50-150 | [GTX 2080 Ti](https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+2080+Ti&id=3991) <br/> Avg. G3D Mark: 21785 <br/> Price: $200-400 | [GTX 4080](https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+4080&id=4622) <br/> Avg. G3D Mark: 34610 <br/> Price: $800-1200
 
 ### Additional Resources
 
