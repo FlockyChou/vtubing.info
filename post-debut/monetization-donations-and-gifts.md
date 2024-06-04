@@ -25,7 +25,7 @@ Making partner is first on the list not because it is the easiest to do, but ins
 | YouTube | [Partner](https://support.google.com/youtube/answer/72851) | 1,000 subscribers | - | 4,000 in the last year | or 10mil Shorts views in the last 90 days | - |
 | YouTube | [Partner (Expanded)](https://support.google.com/youtube/answer/13429240) | 500 subscribers | - | 3,000 in the last year | or 3mil Shorts views in the last 90 days | 3 public uploads in the last 90 days |
 | Twitch | [Affiliate](https://help.twitch.tv/s/article/joining-the-affiliate-program) | 50 followers | 8 hrs | - | 3 viewers | Stream on 7 different days
-| Twitch | |[Partner](https://help.twitch.tv/s/article/achievements#Partner) | 25 hrs | - | 75 viewers | Stream on 12 different days |
+| Twitch | [Partner](https://help.twitch.tv/s/article/achievements#Partner) | - | 25 hrs | - | 75 viewers | Stream on 12 different days |
 
 As I covered in a [previous section](/preparing-for-your-debut/channel-and-social-media-setup.html), becoming a Twitch Affiliate is a much easier than becoming YouTube Partner, even after they introduced the expanded program that halves the number of minimum subscribers required to qualify.
 
@@ -40,7 +40,9 @@ However, just setting up a business account isn't enough. There are some additio
 
 First, you need to go to `Home > Sales > Invoices`.
 
+<div class="code-example" markdown="1">
 ![Home > Sales > Invoices](../assets/images/paypal-sales-invoices.jpg)
+</div>
 
 From there, you should see a preview of what your current invoice looks like on the right side of your screen. If it shows any identifying information such as your real name, address, phone number, etc., click on the "More actions" button on the top right and click "Edit business information". From there, make sure any personal information is removed or select "Don't show on invoices" if it is a dropdown. Once you are done, scroll down and click "Save", then refresh to page to ensure everything was saved properly.
 
