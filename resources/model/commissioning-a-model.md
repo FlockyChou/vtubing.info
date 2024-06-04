@@ -2,6 +2,7 @@
 title: Commissioning a Model
 layout: default
 parent: Model
+grand_parent: Resources
 nav_order: 1
 ---
 

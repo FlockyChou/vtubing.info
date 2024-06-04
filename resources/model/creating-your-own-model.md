@@ -2,6 +2,7 @@
 title: Creating Your Own Model
 layout: default
 parent: Model
+grand_parent: Resources
 nav_order: 2
 ---
 
