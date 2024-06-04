@@ -53,13 +53,23 @@ If you want to be extra safe, you can ask a friend to donate $1 to see what info
 
 For donations, I would highly recommend using something like [Streamlabs donations](https://streamlabs.com/donations) or [StreamElements tips](https://streamelements.com/setips). This is because both have some form of chargeback protection that other services don't provide.
 
+<div class="code-example bg-grey-lt-000" markdown="1">
+
 #### Streamlabs Donations
-* Summary: You can get chargebacks while using Streamlabs but if you are able to prove they are malicious, Streamlabs will help dispute it for you.
-* Further Reading: https://streamlabs.com/content-hub/post/i-received-a-chargeback-what-now
+
+If you receive a chargeback from a donation made through a credit card on Streamlabs, you can flag the chargeback and [Streamlabs will help dispute the chargeback with the card processor]((https://streamlabs.com/content-hub/post/i-received-a-chargeback-what-now)).
+
+For PayPal chargebacks, **you will need to dispute it yourself**; however, you can use Streamlabs logs to help dispute the chargeback.
+
+-----
 
 #### StreamElements Tips
-* Summary: SteamElements has a list of known bad actors and will prevent them from donating to you. They also have chargeback protection but it is unclear whether or not this is only for SE Pay or applies to PayPal as well. Further research will need to be done.
-* Further Reading: https://blog.streamelements.com/advanced-chargeback-protection-for-twitch-and-youtube-stops-bad-donations-from-ruining-your-day-c33f0b2b6f19
+
+To prevent chargebacks in the first place, SteamElements has something called "global chargeback protection". This is [a list of known bad actors which they use to prevent malicious donations](https://blog.streamelements.com/advanced-chargeback-protection-for-twitch-and-youtube-stops-bad-donations-from-ruining-your-day-c33f0b2b6f19).
+
+Much like Streamlabs, StreamElements has full chargeback protection when donations are made through their own payment processor, SE.Pay, but you will be on your own if the chargeback was for a PayPal donation.
+
+</div>
 
 -----
 
@@ -67,4 +77,4 @@ For donations, I would highly recommend using something like [Streamlabs donatio
 
 ### Throne
 
-Allows viewers to crowdsource gifts for you, whether they be personal or stuff you need to stream. The benefit it has over an Amazon Wishlist is that multiple people can contribute to a purchase (10 people chip in $10 to buy a $100 microphone) vs Amazon where someone needs to buy the whole product (one person has to pay the whole $100).
+[Throne](https://throne.com/) allows you to crowdsource purchases, whether they be personal or things you need for streaming. The benefit of this over something like an Amazon Wishlist is that multiple people can contribute to a purchase (10 people can chip in $10 each to buy a $100 microphone) vs Amazon where someone needs to buy the whole product (one person has to pay the whole $100).
