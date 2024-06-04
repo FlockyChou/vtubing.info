@@ -2,7 +2,7 @@
 title: Overlays, Widgets, and More
 layout: default
 parent: Resources
-nav_order: 2
+nav_order: 4
 ---
 
 # Overlays, Widgets, and More

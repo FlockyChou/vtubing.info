@@ -1,11 +1,11 @@
 ---
-title: Commissions
+title: Commissioning a Model
 layout: default
-parent: Resources
+parent: Model
 nav_order: 1
 ---
 
-# Other Guides and Resources
+# Commissioning A Model
 {: .no_toc }
 
 ## Table of Contents

@@ -1,11 +1,11 @@
 ---
-title: DIY
+title: Creating Your Own Model
 layout: default
-parent: Resources
-nav_order: 1
+parent: Model
+nav_order: 2
 ---
 
-# Other Guides and Resources
+# Creating Your Own Model
 {: .no_toc }
 
 ## Table of Contents
@@ -16,9 +16,7 @@ nav_order: 1
 
 -----
 
-## Creating Your Own Model
-
-### PNGTubers
+## PNGTubers
 
 A PNGTuber can be as simple or complex as you want. It can be anything from an illustration to a doodle from Microsoft Paint to a photo.
 
@@ -33,8 +31,8 @@ For more complex PNGTubers for the more artistically-inclined, tsurudraws also h
 
 {% include youtube.html id='-YNrx8Ws0Zo' %}
 
-### Live2D Models
+## Live2D Models
 Making a Live2D model can be fairly difficult and not something I have tried so I do not have any recommendations at this time.
 
-### 3D Models
+## 3D Models
 [VRoid Studio](https://vroid.com/en/studio) makes it very easy to create a custom 3D model. They also have a [very easy-to-follow guide](https://vroid.pixiv.help/hc/en-us/articles/4405597663385-Getting-Started-with-VRoid) on their website that walks you through the process.
