@@ -67,7 +67,7 @@ For PayPal chargebacks, **you will need to dispute it yourself**; however, you c
 
 To prevent chargebacks in the first place, SteamElements has something called "global chargeback protection". This is [a list of known bad actors which they use to prevent malicious donations](https://blog.streamelements.com/advanced-chargeback-protection-for-twitch-and-youtube-stops-bad-donations-from-ruining-your-day-c33f0b2b6f19).
 
-Much like Streamlabs, StreamElements has full chargeback protection when donations are made through their own payment processor, SE.Pay, but you will be on your own if the chargeback was for a PayPal donation.
+Much like Streamlabs, StreamElements has full chargeback protection when donations are made through their own payment processor, SE.Pay, but **you will be on your own if the chargeback was for a PayPal donation**.
 
 </div>
 
