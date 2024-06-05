@@ -22,6 +22,8 @@ The thing I see the most among people who want to get into streaming is wanting 
 
 This section will go over what your expectations should be when getting into VTubing and content creation in general.
 
+-----
+
 ## Things to Consider Before Starting
 
 {% include youtube.html id='EmiFhbz2e2k' %}

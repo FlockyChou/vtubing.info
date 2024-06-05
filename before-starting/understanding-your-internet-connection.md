@@ -22,6 +22,8 @@ Your internet connection will greatly affect the quality of your stream and if y
 
 This section will go over what what the minimum internet speed requirements are needed for each of the streaming platforms and how to interpret them.
 
+-----
+
 ## What Internet Speed Do I Need for Streaming?
 
 While you may have a decent internet connection for watching YouTube or Netflix, the most important number when it comes to streaming is upload speed. Additionally, if you are multiple people living in your household or have multiple devices that are connected to the internet, you may need higher internet speeds/bandwidth.

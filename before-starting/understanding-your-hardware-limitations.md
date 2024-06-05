@@ -25,6 +25,8 @@ This section will go over what I would consider the minimum requirements for str
 {: .note}
 While this section can be a bit technical, I will try my best to explain things as easily as possible so that people who aren't familiar with computers can understand.
 
+-----
+
 ## What is the Minimum Computer Specs for VTubing/Streaming?
 The long answer is it depends based on what type of VTuber model you plan on using and what games you intend on streaming. Multiple factors (namely your CPU, RAM, and GPU) will determine whether or not certain games will run smoothly on your computer. It's important to note that your computer will need to **exceed** the minimum requirements of the games you intend on playing in order to account for VTubing and streaming software running as well.
 

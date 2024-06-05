@@ -1,11 +1,12 @@
 ---
-title: Other Guides and Resources
+title: General Resources
 layout: default
-parent: Resources
+parent: Other Guides and Resources
+grand_parent: Resources
 nav_order: 1
 ---
 
-# Other Guides and Resources
+# General Guides and Resources
 {: .no_toc }
 
 ## Table of Contents
