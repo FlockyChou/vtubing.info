@@ -16,7 +16,11 @@ nav_order: 2
 
 -----
 
+## Summary
+
 Your internet connection will greatly affect the quality of your stream and if you're able to even stream at all.
+
+This section will go over what what the minimum internet speed requirements are needed for each of the streaming platforms and how to interpret them.
 
 ## What Internet Speed Do I Need for Streaming?
 
@@ -30,6 +34,7 @@ In order to stream at 1080p at 60fps:
 | -------- | ----------- | ----------- | --------------------------- |
 | [YouTube](https://support.google.com/youtube/answer/2853702?hl=en) | 4 Mbps | 12 Mbps | 6-18 Mbps |
 | [Twitch](https://help.twitch.tv/s/article/broadcasting-guidelines?language=en_US) | 6,000 kbps or 6 Mbps | - | 9 Mbps |
+| [Kick](https://help.kick.com/en/articles/7066931-how-to-stream-on-kick-com) | 1,000 kbps or 1 Mbps | 8,000 kbps or 8 Mbps | 8 Mbps
 | [Facebook Live]() | 4,500 kbps or 4.5 Mbps | 9,000 kbps or 9 Mbps| 7-14 Mbps |
 
 You can calculate your your own custom bitrate using [a bitrate calculator](https://bitratecalc.com/).

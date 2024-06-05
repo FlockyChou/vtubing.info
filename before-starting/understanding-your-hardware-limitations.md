@@ -16,8 +16,13 @@ nav_order: 1
 
 -----
 
+## Summary
+
 I think before we get started on anything, we need to address the elephant in the room. Your computer specs will determine your ability to VTube and stream in general.
 
+This section will go over what I would consider the minimum requirements for streaming, how to find out if you meet these requirements, and what you can do if you don't meet these requirements.
+
+{: .note}
 While this section can be a bit technical, I will try my best to explain things as easily as possible so that people who aren't familiar with computers can understand.
 
 ## What is the Minimum Computer Specs for VTubing/Streaming?

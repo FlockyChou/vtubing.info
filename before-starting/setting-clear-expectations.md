@@ -16,7 +16,11 @@ nav_order: 3
 
 -----
 
+## Summary
+
 The thing I see the most among people who want to get into streaming is wanting to get paid for just playing games and then quickly getting disappointed by their lack of growth. What many people seem to forget is that, first and foremost, **streamers are entertainers and entertaining is not easy**.
+
+This section will go over what your expectations should be when getting into VTubing and content creation in general.
 
 ## Things to Consider Before Starting
 
@@ -42,7 +46,9 @@ The video above by Squiiji does a real good job highlighting a lot of time and m
 * **Investing in Upgrades** - This is covered in [a later section](https://vtubing.info/post-debut/peripheral-upgrades.html).
 * **Prepare for Negative Interactions** - Due to [kayfabe](https://en.wikipedia.org/wiki/Kayfabe) and VTubing culture being built upon [idol culture](https://en.wikipedia.org/wiki/Japanese_idol#Criticism), viewers can often forget there is a human being on the other side of the screen. Parasocial behaviors may occur that push your personal boundaries or make you uncomfortable. It's important to set strict guidelines and work to building a safe community for yourself and your viewers from the start.
 
-### How to Be Entertaining When No One is Watching
+-----
+
+## How to Be Entertaining When No One is Watching
 
 {% include youtube.html id='uupxfOwyCUk' %}
 
@@ -55,8 +61,6 @@ As highlighted in the video above by Zekos, one of the most important things you
 {% include youtube.html id='1yFG--iv5fQ' %}
 
 While not explicitly related to VTubing, Coffeezilla put out a video talking about his 10 years of content creation on YouTube. In it, he highlights a number of lessons he learned during this time making content that I feel is very relevant to people looking into getting into content creation today.
-
-## Takeaways
 
 The most relevant takeaways for me are:
 * **Focus on the Long-term** - Wanting to get into content creation with the sole goal of making money will show in your work. Getting paid to do what you love would be great but it should not be the immediate goal.
