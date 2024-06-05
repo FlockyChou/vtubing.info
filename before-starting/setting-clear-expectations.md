@@ -41,6 +41,7 @@ The video above by Squiiji does a real good job highlighting a lot of time and m
   * More information on this is detailed in [a later section](https://vtubing.info/post-debut/making-friends-and-collabs.html).
 * **You Need Drive/Passion** - As I stated above, if your goal is to sit around and play games all day while incidentally streaming it all, you might not get very far. Your interest and passion (or lackthereof) will show in your work and your audience will be able to tell.
     * If you find your growth stagnating, it's important to self-reflect on why you think that is and make changes rather than just blame your model or the algorithm.
+    * Setting [S.M.A.R.T. goals](https://en.wikipedia.org/wiki/SMART_criteria) is a good way to approach self-improvement.
 * **Models/Assets/Art Can be Expensive** - Think long and hard about your character design because if you change your mind, it may be costly.
   * There is no shame in using a PNGTuber. In fact, there are plenty of PNGTubers that are YouTube or Twitch Partners.
   * Instead of spending money on an expensive model, you can alternatively use that money to take singing lessons, learn how to edit your videos more proficiently, etc.

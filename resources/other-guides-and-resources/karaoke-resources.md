@@ -56,8 +56,8 @@ However, you may have noticed that most unarchived karaoke streams feature Weste
 I would recommend finding songs you're comfortable with to start. Ideally, these are songs that aren't too out of your range.
 
 You can always pitch shift but it may not sound the best when doing it through third-party means:
-* Browser Pitch Shifter: https://twitter.com/tiuuie/status/1391431054511075330
-* Pitch Shift in VLC: https://superuser.com/questions/1157810/can-i-change-the-pitch-using-vlc
+* [Browser Pitch Shifter](https://twitter.com/tiuuie/status/1391431054511075330)
+* [Pitch Shift in VLC](https://superuser.com/questions/1157810/can-i-change-the-pitch-using-vlc)
 
 ### Making Your Setlist
 
@@ -67,10 +67,15 @@ If you know what you're doing, you can start with a high-energy song. However, s
 
 ## Finding Karaoke Versions of Songs
 
-* Recommended: https://karaokes.moe/en/
+### Japanese Songs
+* [Karaoke Mugen](https://karaokes.moe/en/) is an open-source karaoke app. They also maintain an [database for anime music](https://kara.moe/).
+* Instrumentals/off-vocals from singles/albums/EPs
 * YouTube
-* Paid per song, English: https://www.karaoke-version.com/help/use_33.html
-* Subscription, not recommended due to prive: https://www.karafun.com/
+
+### English Songs
+* [Karaoke Version](https://www.karaoke-version.com/) is a pay-per-song website but also has [some free songs (mostly Christmas Carols)](https://www.karaoke-version.com/custombackingtrack_free/karaoke.html). 
+* [KaraFun](https://www.karafun.com/) is a subscription-based karaoke app/service that some corporate VTubers have used.
+* YouTube
 
 -----
 
@@ -94,3 +99,5 @@ As stated in the previous video, you will need to subscribe to the developer [Mu
 ### Assets
 
 Self-plug for [my free concert ticket assets](https://ko-fi.com/s/dd76510bc6) you can use to advertise your karaoke streams.
+
+There are also some microphone assets you can find on the [Common Assets page](https://vtubing.info/resources/assets/common-assets.html#microphones).

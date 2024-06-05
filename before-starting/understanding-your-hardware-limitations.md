@@ -99,8 +99,6 @@ If you don't meet the minimum requirements, you have 3 options:
 2. Build or buy a new computer
 3. PNGTUber + streaming older games
 
-<div class="code-example bg-grey-lt-000" markdown="1">
-
 ### Upgrade Parts
 
 If, like the example above, your computer meets most of the minimum requirements but needs an upgrade in only a few departments, you may be able to upgrade it. However, keep in mind that this might be difficult if you have a laptop or an older desktop.
@@ -109,15 +107,17 @@ Laptops are nearly impossible to upgrade and the only components that are easily
 
 Old desktops are held back by their motherboard, which limits what other components are compatible with it. While you can upgrade a desktop's motherboard, you would basically be building a computer pretty much from scratch at that point.
 
------
-
 ### Build or Buy a Computer
+
+<div class="code-example bg-grey-lt-000" markdown="1">
 
 #### Building a Computer
 
 If you are experienced and looking to build a PC but need suggestions on hardware that fit your budget or help with hardware compatibility, you can check out these Reddit communities:
 * [r/BuildAPC](https://www.reddit.com/r/buildapc/) - "A community-driven subreddit dedicated to custom PC assembly. Anyone is welcome to seek the input of our helpful community as they piece together their desktop."
 * [r/BuildMeAPC](https://www.reddit.com/r/buildmeapc/) - "If you are new to computer building, and need someone to help you put parts together for your build or even an experienced builder looking to talk tech you are in the right place!"
+
+-----
 
 #### Buying a Computer
 
@@ -140,10 +140,8 @@ However, before pulling the trigger on a new computer, there are some things to 
 | | Less upgradable (often only RAM and hard drive) |
 | | A desktop CPU and GPU and not the same as a laptop CPU and GPU. Laptop hardware is often less beefy than their desktop counterparts, despite having the same or similar names.
 
------
+</div>
 
 ### PNGTuber + Streaming Older Games
 
 If you are running on older hardware or a laptop with an integrated graphics chip and don't have the resources for an upgrade, it may be best to start as a PNGTuber playing retro or indie games that require less resources.
-
-</div>
