@@ -30,15 +30,15 @@ Humble Bundle has 2 main storefronts for deals: bundles and regular deals:
 Hundreds of games go on sale daily on Steam. You can use Steam search to find ones [within your price range](https://store.steampowered.com/search/?maxprice=5).
 
 Some popular games that are always < $5 are:
-1. [**Vampire Survivors**](https://store.steampowered.com/app/1794680/Vampire_Survivors/) - $4.99
-2. [**A Building Full of Cats**](https://store.steampowered.com/app/1969080/A_Building_Full_of_Cats/) - $1.99
-3. [**Cats Organized Neatly**](https://store.steampowered.com/app/1369340/Cats_Organized_Neatly/) / [**Dogs Organized Neatly**](https://store.steampowered.com/app/1597730/Dogs_Organized_Neatly/) - $2.99
-4. [**Sudocats**](https://store.steampowered.com/app/1725640/Sudocats/) - $1.99
-5. [**Minami Lane**](https://store.steampowered.com/app/2678990/Minami_Lane/) - $4.99
-6. [**The Room**](https://store.steampowered.com/app/288160/The_Room/) / [**The Room 2**](https://store.steampowered.com/app/425580/The_Room_Two/) - $4.99
-7. [**Frog Detective 1, 2, & 3**](https://store.steampowered.com/bundle/28689/Frog_Detective_1__2__3/) - $4.99 ea.
-8. [**The Exit 8**](https://store.steampowered.com/app/2653790/The_Exit_8/) - $3.99
-9. [**VVVVVV**](https://store.steampowered.com/app/70300/VVVVVV/) - $4.99
+1. [**Vampire Survivors**](https://store.steampowered.com/app/1794680/Vampire_Survivors/) ($4.99) is the game that popularized the wave of roguelike shoot'em up clones. The base game can provide dozens, if not hundreds of hours of gameplay.
+2. [**A Building Full of Cats**](https://store.steampowered.com/app/1969080/A_Building_Full_of_Cats/) ($1.99) is a short Where's-Waldo-like game of finding cats hidden in highly intricate and detailed backgrounds.
+3. [**Cats Organized Neatly**](https://store.steampowered.com/app/1369340/Cats_Organized_Neatly/) / [**Dogs Organized Neatly**](https://store.steampowered.com/app/1597730/Dogs_Organized_Neatly/) ($2.99 ea) are puzzles game where you need to fit all the friend-shaped pieces into a small grid.
+4. [**Sudocats**](https://store.steampowered.com/app/1725640/Sudocats/) ($1.99) is exactly what it sounds like. Sudoku, but instead of numbers, they're cats.
+5. [**Minami Lane**](https://store.steampowered.com/app/2678990/Minami_Lane/) ($4.99) is a short coazy management simulator where you manage a small community.
+6. [**The Room**](https://store.steampowered.com/app/288160/The_Room/) / [**The Room 2**](https://store.steampowered.com/app/425580/The_Room_Two/) ($4.99 ea) are a pair of escape-room-like 3D puzzle games where you need to manipulate intricate multi-stage puzzles.
+7. [**Frog Detective 1, 2, & 3**](https://store.steampowered.com/bundle/28689/Frog_Detective_1__2__3/) ($4.99 ea) are a trio of (very) short mystery adventure games.
+8. [**The Exit 8**](https://store.steampowered.com/app/2653790/The_Exit_8/) ($3.99) is a horror/spot-the-difference game/rage game where you try to escape a train station.
+9. [**VVVVVV**](https://store.steampowered.com/app/70300/VVVVVV/) ($4.99) is a puzzle platformer game where, instead of jumping, you inverty gravity.
 
 ### Steam Game Price Tracking
 
