@@ -26,8 +26,8 @@ This section is currently YouTube-focused. Twitch might have different rules and
 
 To start off, we need to answer the question of "what is the difference between a copyright claim and a copyright strike?"
 
-* [**Copyright Claims**](https://support.google.com/youtube/answer/7002106?hl=en) are when YouTube identifies copyrighted material in your video using Content IDs. The best case is that nothing happens or the copyright holder claims the revenue on your video. The worst thing that can happen is the copyright holder can issue a takedown notice for your content. Either way, these copyright claims rarely account for fair use and you can dispute these claims by proving you either have the rights or that your work is transformative.
-* [**Copyright Strikes**](https://support.google.com/youtube/answer/2814000?hl=en) are far more serious and are the ones you definitely do not want. These are manually initiated by the copyright holder and can negatively impact your account greatly.
+* [**Copyright Claims**](https://support.google.com/youtube/answer/7002106?hl=en) are when YouTube identifies copyrighted material in your video using automated Content IDs. The best case when receiving one of these is nothing happens or the copyright holder claims the revenue on your video. The worst thing that can happen is the copyright holder can issue a takedown notice for your content. Either way, these copyright claims rarely account for fair use and you can try to dispute these claims by proving you either have the rights or that your work is transformative.
+* [**Copyright Strikes**](https://support.google.com/youtube/answer/2814000?hl=en) are far more serious and are the ones you definitely do not want. These are manually initiated by the copyright holder and can negatively impact your account greatly. These are important to avoid and fight, since **3 copyright strikes can result in the termination of your channel**.
 
 For further reading, I found [this article on Copyrighted](https://www.copyrighted.com/blog/copyright-claim-vs-strike) extremely helpful.
 
@@ -53,7 +53,7 @@ However, you may have noticed that most unarchived karaoke streams feature Weste
 
 ### Choosing Songs
 
-I would recommend finding songs you're comfortable with to start. Ideally, these are songs that aren't too out of your range.
+I would recommend finding songs you're comfortable with. However, keep in mind that your favorite song might be out of your range.
 
 You can always pitch shift but it may not sound the best when doing it through third-party means:
 * [Browser Pitch Shifter](https://twitter.com/tiuuie/status/1391431054511075330)
@@ -88,6 +88,10 @@ If you know what you're doing, you can start with a high-energy song. However, s
 -----
 
 ## Resources
+
+### Youtaite Resources
+
+While mostly revolving around recording song covers, the [Youtaite Resources](https://www.youtaite.com/resources) page has a number of resources ranging from singing tips to microphone recommendations that are still relevant to karaoke streams.
 
 ### Shoost
 
