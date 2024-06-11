@@ -29,7 +29,7 @@ The most popular tags are:
 * [#freevtuberasset](https://twitter.com/search?q=%23freevtuberasset)
 * [#freevtuberassets](https://twitter.com/search?q=%23freevtuberassets)
 
-I also "like" assets I really like at [@FlockyX](https://twitter.com/FlockyX) and retweet free assets when I remember to log in. **I only retweet 100% free assets; no giveaways and raffles.**
+I also "like" assets I really like at [@FlockyChou](https://twitter.com/FlockyChou) and retweet free assets when I remember to log in. **I only retweet 100% free assets; no giveaways and raffles.**
 
 -----
 
