@@ -59,6 +59,6 @@ For those less artistically-inclined, you can see if you can find an artist to h
 If you want to get started as soon as possible, you can find "adoptable" character designs or pre-made model for sale.
 
 For adoptables, you can find people posting them on Twitter using the following hashtags:
-* [#characterdesign #adoptables](https://twitter.com/search?q=%23characterdesign%20%23adoptables)
+* [#characterdesign #adoptables](https://x.com/search?q=%23characterdesign%20%23adoptables)
 
 For pre-made models, refer to the obtaining a model section.

@@ -48,10 +48,10 @@ You can find these on places like Twitter and Booth, a marketplace with a large 
 ### Twitter
 
 For Twitter, you can find people posting adoptables using the following hashtags:
-* [#pngtuber #adoptables](https://twitter.com/search?q=%23pngtuber%20%23adoptables)
-* [#live2d #adoptables](https://twitter.com/search?q=%23live2d%20%23adoptables)
+* [#pngtuber #adoptables](https://x.com/search?q=%23pngtuber%20%23adoptables)
+* [#live2d #adoptables](https://x.com/search?q=%23live2d%20%23adoptables)
 
-You can also seach for terms like ["customizable live2d"](https://twitter.com/search?q=customizable%20live2d). I was able to find [the aforementioned customizable PNGTuber by tsurudraws](https://twitter.com/tsurudraws/status/1778927318930723090) for $10, this really cute and [cheap customizable chibi by miikutea_](https://twitter.com/miikutea_/status/1764085270180446287) for $15 and this [full-sized model also by miikutea_](https://twitter.com/miikutea_/status/1780388342649212971) for $35.
+You can also seach for terms like ["customizable live2d"](https://x.com/search?q=customizable%20live2d). I was able to find [the aforementioned customizable PNGTuber by tsurudraws](https://x.com/tsurudraws/status/1778927318930723090) for $10, this really cute and [cheap customizable chibi by miikutea_](https://x.com/miikutea_/status/1764085270180446287) for $15 and this [full-sized model also by miikutea_](https://x.com/miikutea_/status/1780388342649212971) for $35.
 
 ### Booth
 

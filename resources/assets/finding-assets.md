@@ -26,10 +26,11 @@ Please be sure to read each post carefully and credit the artists properly!
 Twitter is a really good place to find free overlays, backgrounds, BGM, and VTube Studio model accessories.
 
 The most popular tags are:
-* [#freevtuberasset](https://twitter.com/search?q=%23freevtuberasset)
-* [#freevtuberassets](https://twitter.com/search?q=%23freevtuberassets)
+* [#freevtuberasset](https://x.com/search?q=%23freevtuberasset)
+* [#freevtuberassets](https://x.com/search?q=%23freevtuberassets)
+* [#フリー素材](https://x.com/search?q=%23%E3%83%95%E3%83%AA%E3%83%BC%E7%B4%A0%E6%9D%90) - There are a lot of hand assets people use for viral tweets under this tag. Most of them are Japanese posts, so please translate and read the artists' usage requirements carefully.
 
-I also "like" assets I really like at [@FlockyChou](https://twitter.com/FlockyChou) and retweet free assets when I remember to log in. **I only retweet 100% free assets; no giveaways and raffles.**
+I also "like" assets I really like at [@FlockyChou](https://x.com/FlockyChou) and retweet free assets when I remember to log in. **I only retweet 100% free assets; no giveaways and raffles.**
 
 -----
 

@@ -15,4 +15,4 @@ What this guide will try to do is provide the most straightforward path from kno
 I have personally gone through each recommended website and resource in order to either (1) make sure they are as straightforward as possible and not overwhelming or (2) summarize and simplify them so they can be more easily understood.
 
 # Contribute
-Create an GitHub issue or tweet at [@FlockyChou](https://twitter.com/FlockyChou) if there are any items, guides, or resources you would like to see covered or added.
+Create an GitHub issue or tweet at [@FlockyChou](https://x.com/FlockyChou) if there are any items, guides, or resources you would like to see covered or added.

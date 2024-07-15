@@ -56,7 +56,7 @@ However, you may have noticed that most unarchived karaoke streams feature Weste
 I would recommend finding songs you're comfortable with. However, keep in mind that your favorite song might be out of your range.
 
 You can always pitch shift but it may not sound the best when doing it through third-party means:
-* [Browser Pitch Shifter](https://twitter.com/tiuuie/status/1391431054511075330)
+* [Browser Pitch Shifter](https://x.com/tiuuie/status/1391431054511075330)
 * [Pitch Shift in VLC](https://superuser.com/questions/1157810/can-i-change-the-pitch-using-vlc)
 
 ### Making Your Setlist
@@ -96,7 +96,7 @@ While mostly revolving around recording song covers, the [Youtaite Resources](ht
 ### Shoost
 
 {: .note}
-As stated in the previous video, you will need to subscribe to the developer [MuRo's Patreon](https://www.patreon.com/MuRo_CG) to obtain access to Shoost. Similar effects have been directly built into [VTube Studio v1.28.0](https://twitter.com/VTubeStudio/status/1737956014186496208). However, Shoost is made by a small developer worth supporting and has a number of additional effects built into it.
+As stated in the previous video, you will need to subscribe to the developer [MuRo's Patreon](https://www.patreon.com/MuRo_CG) to obtain access to Shoost. Similar effects have been directly built into [VTube Studio v1.28.0](https://x.com/VTubeStudio/status/1737956014186496208). However, Shoost is made by a small developer worth supporting and has a number of additional effects built into it.
 
 {% include youtube.html id='XwcU_MyWEEY' %}
 

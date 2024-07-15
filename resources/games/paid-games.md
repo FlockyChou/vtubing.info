@@ -61,8 +61,8 @@ Have you been waiting for a game to go on sale? The [SteamDB](https://steamdb.in
 
 ### Deal Trackers
 
-* [Cheap Ass Gamer Twitter](https://twitter.com/videogamedeals)
-* [Wario64 Twitter](https://twitter.com/Wario64)
+* [Cheap Ass Gamer Twitter](https://x.com/videogamedeals)
+* [Wario64 Twitter](https://x.com/Wario64)
 * [r/GameDeals Subreddit](https://www.reddit.com/r/GameDeals/)
 
 ### What About CD Key Sites?

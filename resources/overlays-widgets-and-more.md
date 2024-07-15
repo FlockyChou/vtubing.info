@@ -24,14 +24,14 @@ Twitter is a really good place to find free overlays, backgrounds, BGM, and VTub
 
 I've found the most luck under:
 * **Overlays**
-    * [#freevtuberasset overlay](https://twitter.com/search?q=%23freevtuberasset%20overlay)
-    * [#freevtuberassets overlay](https://twitter.com/search?q=%23freevtuberassets%20overlay)
+    * [#freevtuberasset overlay](https://x.com/search?q=%23freevtuberasset%20overlay)
+    * [#freevtuberassets overlay](https://x.com/search?q=%23freevtuberassets%20overlay)
 * **Schedules**
-    * [#freevtuberasset schedule](https://twitter.com/search?q=%23freevtuberasset%20schedule)
-    * [#freevtuberassets schedule](https://twitter.com/search?q=%23freevtuberassets%20schedule)
+    * [#freevtuberasset schedule](https://x.com/search?q=%23freevtuberasset%20schedule)
+    * [#freevtuberassets schedule](https://x.com/search?q=%23freevtuberassets%20schedule)
     * Additionally, I have a few free to use schedules that I've created over on [my Ko-fi page](https://ko-fi.com/flocky_chou/shop).
 
-I also "like" assets I really like at [@FlockyChou](https://twitter.com/FlockyChou) and retweet free assets when I remember to log in. **I only retweet 100% free assets; no giveaways and raffles.**
+I also "like" assets I really like at [@FlockyChou](https://x.com/FlockyChou) and retweet free assets when I remember to log in. **I only retweet 100% free assets; no giveaways and raffles.**
 
 -----
 
