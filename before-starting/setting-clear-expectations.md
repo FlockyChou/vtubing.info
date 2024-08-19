@@ -26,7 +26,7 @@ This section will go over what your expectations should be when getting into VTu
 
 ## How to Approach Content Creation (in General)
 
-{% include youtube.html id='uupxfOwyCUk' %}
+{% include youtube.html id='1yFG--iv5fQ' %}
 
 While not explicitly related to VTubing, YouTuber Coffeezilla put out a video talking about his 10 years of content creation. In it, he highlights a number of lessons he learned during this time making content that I feel is very relevant to people looking into getting into content creation today.
 
@@ -42,7 +42,7 @@ The most relevant takeaways for me are:
 
 In addition to all the above, there are a lot of things that go on behind the scenes to content creation that most people don't realize.
 
-{% include youtube.html id='1yFG--iv5fQ' %}
+{% include youtube.html id='EmiFhbz2e2k' %}
 
 In the video above, Squiiji does a real good job highlighting a lot of time and money sinks that most people don't consider when first trying to get into content creation and VTubing specifically. I think a lot of very important things are covered in this video, including:
 
@@ -62,6 +62,6 @@ In the video above, Squiiji does a real good job highlighting a lot of time and 
 
 ## How to Be Entertaining When No One is Watching
 
-{% include youtube.html id='EmiFhbz2e2k' %}
+{% include youtube.html id='uupxfOwyCUk' %}
 
 As highlighted in the video above by Zekos, one of the most important things you need to learn how to do is being entertaining when no one is watching. If you are actively watching your view count and only entertaining when you see that someone is watching, chances are it's too late and they may have already left. Your question to yourself should be "At any given time, if someone clicked into my stream, would they have a reason to continue watching or would they click away?" Think about your own experiences clicking into a stream or video and closing it out because it was either boring, too busy, too loud, etc. and use those to gauge your own content.
