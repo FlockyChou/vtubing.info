@@ -71,7 +71,9 @@ Based on the above, **in theory**, I should expect frame drops or stuttering gam
 
 </div>
 
-### Hololive Comparison
+-----
+
+## Hololive Comparison
 Thanks to some Redditors, we can take a look at how our minimum requirements compare to some of the computers used by the talents in Hololive (data from [2021](https://www.reddit.com/r/Hololive/comments/ko50fu/hololive_member_pc_specs_cpu_and_gpu/) and [2023](https://www.reddit.com/r/Hololive/comments/113mf3n/nene_casual_pc_specs_flex/), RAM is speculative):
 
 | Component | Minimum | Median | Maximum |
@@ -80,7 +82,9 @@ Thanks to some Redditors, we can take a look at how our minimum requirements com
 | RAM | 16 GB <br/> Price: $50-100 | 64 GB <br/> Price: $150-250 | 128 GB <br/> Price: $300-500
 | GPU | [GTX 1060](https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+1060&id=3548) <br/> Avg. G3D Mark: 10073 <br/> Price: $50-150 | [GTX 2080 Ti](https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+2080+Ti&id=3991) <br/> Avg. G3D Mark: 21785 <br/> Price: $200-400 | [GTX 4080](https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+4080&id=4622) <br/> Avg. G3D Mark: 34610 <br/> Price: $800-1200
 
-### Additional Resources
+-----
+
+## Additional Resources
 
 If you can't make heads or tails out of any of this, there are also communities that may be able to help you decipher whether or not you can run a game:
 
@@ -88,3 +92,5 @@ If you can't make heads or tails out of any of this, there are also communities 
 * [r/LowEndGaming](https://www.reddit.com/r/lowendgaming/) - "A community for anyone struggling to find something to play for that older system, or sharing or seeking tips for how to run that shiny new game on yesterday's hardware."
 
 In the event that you are running on older hardware or a laptop with an integrated graphics chip that can't be upgraded or don't have the resources for an upgrade at the moment, there is nothing wrong with starting as a PNGTuber playing retro or indie games that require less resources.
+
+If you are looking for more information about upgrading or buying a new computer, this is covered in [a later section](https://vtubing.info/post-debut/hardware-upgrades.html).
