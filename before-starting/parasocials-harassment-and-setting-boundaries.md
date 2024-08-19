@@ -25,9 +25,7 @@ I felt like I needed to create this section due to recent graduations that I've 
 
 -----
 
-## Parasocial Behaviors
-
-### What is Being "Parasocial"?
+## What is Being "Parasocial"?
 
 Being "parasocial" is often used as an umbrella term for unhealthy relationships between an entertainer and their audience. Typically, it is used to describe ["simps"](https://www.merriam-webster.com/dictionary/simp), fans who who put supporting their ["oshi"](https://en.moegirl.org.cn/Oshi) above their own needs, and at worst, stalkers.
 
@@ -39,7 +37,11 @@ According to [this article by Verywell Mind about parasocial relationships](http
 
 The descriptions of both of these sound very normal. Wanting your viewers to feel a sense of belonging or safety when watching your streams isn't a bad thing and can be the basis of a healthy community. And as a streamer, remembering information your viewers shared in chat about their personal lives may be a way to show you care about your audience, their time, and their wellbeing. What's important is making sure you are setting clear boundaries between yourself and your audience to ensure this does not get to unhealthy levels.
 
-### What does "Unhealthy" Look Like?
+-----
+
+## What does "Unhealthy" Look Like?
+
+<div class="code-example bg-grey-lt-000" markdown="1">
 
 **For viewers:**
 * Feeling incomplete when a streamer is on hiatus
@@ -54,6 +56,8 @@ The descriptions of both of these sound very normal. Wanting your viewers to fee
 * Encouraging unhealthy parasocial relationships via:
   * Creating "girlfriend experience" (GFE) or "boyfriend experience" (BFE) content
   * Asking suggestive questions such as "What would you do if we were alone?"
+
+</div>
 
 ### Examples
 
