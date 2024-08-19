@@ -33,7 +33,7 @@ While not explicitly related to VTubing, YouTuber Coffeezilla put out a video ta
 The most relevant takeaways for me are:
 * **Focus on the Long-term** - Wanting to get into content creation with the sole goal of making money will show in your work. Getting paid to do what you love would be great but it should not be the immediate goal.
 * **Things Take Time** - Not everyone is able to be successful right off the bat. Expect to fail. A lot. It's important to focus on knowing what kind of content you want to create while being flexible enough to course-correct  when needed.
-* **It's More than Luck...** - Not everyone is going to go viral. In fact, having one "successful" video go viral does not necessarily turn into long-term success. Focus on honing your craft and learning from your mistakes in order to make better content than trying to game "the algorithm" or clout chase.
+* **It's More than Luck...** - Not everyone is going to go viral. In fact, having one "successful" video go viral does not necessarily turn into long-term success. Focus on honing your craft and learning from your mistakes in order to make better content rather than trying to game "the algorithm" or clout chase.
 * **...But Luck is Still a Factor** - While hard work is key, between "the algorithm" and real-life factors, luck still plays a role in all of it. It's a matter of what you're able to do with that luck that determines your success.
 
 -----
@@ -44,14 +44,13 @@ In addition to all the above, there are a lot of things that go on behind the sc
 
 {% include youtube.html id='EmiFhbz2e2k' %}
 
-In the video above, Squiiji does a real good job highlighting a lot of time and money sinks that most people don't consider when first trying to get into content creation and VTubing specifically. I think a lot of very important things are covered in this video, including:
+In the video above, Squiiji does a real good job highlighting a lot of time and money sinks that most people don't consider when first trying to get into content creation and VTubing specifically. I think a lot of very important things are covered in this video.
 
+The most relevant takeaways for me are:
 * **Consistency is Key** - Upload consistency is a key factor the algorithm looks for and also lets your audience know when you're streaming next.
-* **You Need to Be a Jack of All Trades** - Especially if you are starting out and don't have any help, being a VTuber requires a wide set of skills such as video editing, thumbnail creation, social media management, etc.
+* **You Need to Be a Jack of All Trades** - Being a VTuber requires a wide set of skills such as video editing, thumbnail creation, social media management, etc.
 * **You Need to Be Entertaining** - What makes you stand out from the competition?
-* **Networking is Important** - Whether it's making friends or collab partners, you **will** need to step out of your comfort zone, especially if you're an introvert.
-  * Please note that a friend does not always mean a collab partner and a collab partner doesn't always mean a friend. 
-  * More information on this is detailed in [a later section](https://vtubing.info/post-debut/making-friends-and-collabs.html).
+* **Networking is Important** - This is covered in [a later section](https://vtubing.info/post-debut/making-friends-and-collabs.html) in-depth.
 * **You Need Drive/Passion** - If your goal is to sit around and play games all day while simply broadcasting your footage, you might not get very far. Your interest and passion (or lackthereof) will show in your work and your audience will be able to tell.
 * **Models/Assets/Art Can be Expensive** - Think long and hard about your character design because rebranding can be costly.
 * **Computer Hardware** - This is covered in [a later section](https://vtubing.info/before-starting/understanding-your-hardware-limitations.html) in-depth.
@@ -62,6 +61,8 @@ In the video above, Squiiji does a real good job highlighting a lot of time and 
 
 ## How to Be Entertaining When No One is Watching
 
+Especially when first starting out, one of the most important things you need to learn how to do is being entertaining when no one is watching.
+
 {% include youtube.html id='uupxfOwyCUk' %}
 
-As highlighted in the video above by Zekos, one of the most important things you need to learn how to do is being entertaining when no one is watching. If you are actively watching your view count and only entertaining when you see that someone is watching, chances are it's too late and they may have already left. Your question to yourself should be "At any given time, if someone clicked into my stream, would they have a reason to continue watching or would they click away?" Think about your own experiences clicking into a stream or video and closing it out because it was either boring, too busy, too loud, etc. and use those to gauge your own content.
+The video above by Zekos covers a few things we've already discussed but at around the 1:35 mark, it talks about how to stream to 0 viewers. In it, he highlights the fact that if you are actively watching your view count and only entertaining when you see that someone is watching, chances are it's too late and they may have already left. Your question to yourself should be "At any given time, if someone clicked into my stream, would they have a reason to continue watching or would they click away?" Think about your own experiences clicking into a stream or video and closing it out because it was either boring, too busy, too loud, etc. and use those to gauge your own content.
