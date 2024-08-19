@@ -38,7 +38,7 @@ To get started, I would recommend putting together a sort of vision board of som
 I recommend watching the video above by Squiiji on what makes a character design memorable for some general advice when trying to come up with a design.
 
 **Key Takeaways:**
-1. **Color Palette:** If you have a primary color in mind, you can utilize tools like [Adobe Color](https://color.adobe.com/) or [Coolors](https://coolors.co/) (slight epilepsy warning on your first time using Coolers!) to find a color palette, as recommended in the video.
+1. **Color Palette:** If you have a primary color in mind, you can utilize tools like [Adobe Color](https://color.adobe.com/) or [Coolors](https://coolors.co/) (slight epilepsy warning on your first time using Coolers!) to find a color palette.
 2. **Silhouette:** Having a strong silhouette will allow people to identify your character more easily.
 3. **Complexity & Clarity:** The balance between being detailed enough to be interesting but not so busy that it's distracting.
     1. Will your design hold up if someone is watching on their phone?
@@ -61,4 +61,4 @@ If you want to get started as soon as possible, you can find "adoptable" charact
 For adoptables, you can find people posting them on Twitter using the following hashtags:
 * [#characterdesign #adoptables](https://x.com/search?q=%23characterdesign%20%23adoptables)
 
-For pre-made models, refer to the obtaining a model section.
+For pre-made models, refer to the [obtaining a model section](https://vtubing.info/resources/model/commissioning-a-model.html#alternative-buyingadoptingusing-a-f2u-pre-made-model).

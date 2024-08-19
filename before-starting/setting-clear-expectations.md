@@ -55,7 +55,7 @@ The most relevant takeaways for me are:
 * **Models/Assets/Art Can be Expensive** - Think long and hard about your character design because rebranding can be costly.
 * **Computer Hardware** - This is covered in [a later section](https://vtubing.info/before-starting/understanding-your-hardware-limitations.html) in-depth.
 * **Investing in Upgrades** - This is covered in [a later section](https://vtubing.info/post-debut/peripheral-upgrades.html) in-depth.
-* **Prepare for Negative Interactions** -  - This is covered in [a later section](https://vtubing.info/before-starting/parasocials-harassment-and-setting-boundaries) in-depth.
+* **Prepare for Negative Interactions** - This is covered in [a later section](https://vtubing.info/before-starting/parasocials-harassment-and-setting-boundaries) in-depth.
 
 -----
 
