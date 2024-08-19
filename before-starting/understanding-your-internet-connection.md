@@ -29,7 +29,7 @@ This section will go over what what the minimum internet speed requirements are 
 {: .important }
 Be aware that while you may have good download speeds, you might not have the same upload speed. Some ISPs, especially in more rural areas that utilize satellite internet, may have significantly less upload speed.
 
-While you may have a decent internet connection for watching YouTube or Netflix, the **most important number when it comes to streaming is upload speed**. Additionally, if you are multiple people living in your household or have multiple devices that are connected to the internet, you may need higher internet speeds/bandwidth.
+While you may have a decent internet connection for watching YouTube or Netflix, the **most important number when it comes to streaming is upload speed**. Additionally, if there are multiple people living in your household or have multiple devices that are connected to the internet, you may need higher internet speeds/bandwidth.
 
 Below, you can find the recommended bitrates for multiple platforms. Your internet speed **should have at least 50% MORE upload speed than your bitrate setting.** For example, if you are doing 6,000 Kbps, you should have at least 6,000 Kbps + 3,000 Kbps (50% of 6,000) = 9,000 Kbps upload. 
 
