@@ -2,7 +2,7 @@
 title: Understanding Your Internet Connection
 layout: default
 parent: Before Starting
-nav_order: 2
+nav_order: 3
 ---
 
 # Understanding Your Internet Connection

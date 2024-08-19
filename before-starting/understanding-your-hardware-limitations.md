@@ -2,7 +2,7 @@
 title: Understanding Your Hardware Limitations
 layout: default
 parent: Before Starting
-nav_order: 1
+nav_order: 2
 ---
 
 # Understanding Your Hardware Limitations
