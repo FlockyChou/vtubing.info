@@ -65,7 +65,7 @@ What's important is making sure you are setting clear boundaries between yoursel
 
 ## Sexual Harassment
 
-Due to the aforementioned [kayfabe](https://en.wikipedia.org/wiki/Kayfabe) and [idol culture](https://en.wikipedia.org/wiki/Japanese_idol#Criticism), many viewers can forget that there is a real person behind the VTuber. This can easily lead to unwanted sexualization and sexual harassment.
+Due to the [kayfabe](https://en.wikipedia.org/wiki/Kayfabe) and [idol culture](https://en.wikipedia.org/wiki/Japanese_idol#Criticism), many viewers can forget that there is a real person behind the VTuber. This can easily lead to unwanted sexualization and sexual harassment.
 
 Especially in male-dominated spaces like gaming, please be aware that [simply existing as a woman can lead to sexual harassment and threats](https://x.com/yourfavtess/status/1799395183458406730). The same goes for members of [the LGBTQAI+ community](https://www.pewresearch.org/internet/2021/01/13/personal-experiences-with-online-harassment/).
 
