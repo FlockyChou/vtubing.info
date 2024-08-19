@@ -18,7 +18,7 @@ nav_order: 1
 
 ## Summary
 
-The thing I see the most among people who want to get into streaming is wanting to get paid for just playing games and then quickly getting disappointed by their lack of growth. What many people seem to forget is that, first and foremost, **streamers are entertainers and entertaining is not easy**.
+The thing I see the most among people who want to get into streaming is wanting to get paid for just playing games and then quickly getting disappointed by their lack of growth. What many people seem to forget is that, first and foremost, **streamers are entertainers and entertaining is not easy**. While anyone can launch OBS and stream, you need to be able to captivate your audience in order to be a successful streamer.
 
 This section will go over what your expectations should be when getting into VTubing and content creation in general.
 

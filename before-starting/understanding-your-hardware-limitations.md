@@ -18,7 +18,7 @@ nav_order: 2
 
 ## Summary
 
-I think before we get started on anything, we need to address the elephant in the room. Your computer specs will determine your ability to VTube and stream in general.
+I think before we get started on anything, we need to address the elephant in the room. While you can technically stream on your phone, laptop, or potato PC, your computer specs will determine your ability to VTube in general and what you can stream. As games continue to require beefier hardware to run year after year, your computer's minimum requirements become more and more of a bottleneck for what your can feasibly stream.
 
 This section will go over what I would consider the minimum requirements for streaming, how to find out if you meet these requirements, and what you can do if you don't meet these requirements.
 
@@ -28,9 +28,9 @@ While this section can be a bit technical, I will try my best to explain things 
 -----
 
 ## What is the Minimum Computer Specs for VTubing/Streaming?
-The long answer is it depends based on what type of VTuber model you plan on using and what games you intend on streaming. Multiple factors (namely your CPU, RAM, and GPU) will determine whether or not certain games will run smoothly on your computer. It's important to note that your computer will need to **exceed** the minimum requirements of the games you intend on playing in order to account for VTubing and streaming software running as well.
+**The long answer** is that it depends based on what type of VTuber model you plan on using and what games you intend on streaming. Multiple factors (namely your CPU, RAM, and GPU) will determine whether or not certain games will run smoothly on your computer. It's important to note that your computer will need to **exceed** the minimum requirements of the games you intend on playing in order to account for VTubing and streaming software running as well.
 
-The short answer is that I would recommend **at least**:
+**The short answer** is that I would recommend **at least**:
 
 | Component | Recommendation
 | --------- | -------------- |
@@ -44,12 +44,13 @@ The short answer is that I would recommend **at least**:
 
 ![Speccy Interface](../assets/images/speccy-specs.jpg)
 
-**For RAM and CPU (if you have an Intel Core processor)**, you can check if your meet these minimum requirements by using something like [Speccy](https://www.ccleaner.com/speccy) (pictured above). For the CPU, a 10th gen i5 will show as `i5-10XXX`, an 11th gen as `i5-11XXX`, etc.
+To find out what CPU, RAM, and GPU specs you have, I've found that something like [Speccy](https://www.ccleaner.com/speccy) (pictured above) is one of the easiest ways to find out. If you don't feel comfortable downloading something, you can always Google how to do it for your operating system, as how to do so differs between Windows, Mac, and Linux.
 
-If you don't feel comfortable downloading something, you can always Google how to do it for your operating system.
-
-**For GPU and CPU (if you don't have an Intel Core processor)**, it will be a bit harder to compare. You can compare benchmark scores by [searching for your GPU](https://www.videocardbenchmark.net/gpu_list.php) or [searching for your CPU](https://www.cpubenchmark.net/cpu_list.php) and seeing if their benchmark scores meet or exceed those of the recommended GPU ([GTX 1060](https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+1060&id=3548)) or CPU ([Intel Core i5-10400](https://www.cpubenchmark.net/cpu.php?cpu=Intel+Core+i5-10400+%40+2.90GHz&id=3737)).
-
+| Component | Recommendation
+| --------- | -------------- |
+| CPU | If you have a Intel CPU, a 10th gen i5 will show as `i5-10XXX`, an 11th gen as `i5-11XXX`, etc. Generally, an i7 is better than an i5 an an i9 is better than an i7. <br/> For AMD CPUs, telling if your CPU meets the minimum spec is a bit harder. You can compare benchmark scores by [searching for your CPU](https://www.cpubenchmark.net/cpu_list.php) and seeing if their benchmark scores meet or exceed the recommended CPU ([Intel Core i5-10400](https://www.cpubenchmark.net/cpu.php?cpu=Intel+Core+i5-10400+%40+2.90GHz&id=3737)).
+| RAM | At least 16 GB of RAM
+| GPU | You can compare benchmark scores by [searching for your GPU](https://www.videocardbenchmark.net/gpu_list.php) and seeing if their benchmark scores meet or exceed the recommended GPU ([GTX 1060](https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+1060&id=3548)).
 
 <div class="code-example bg-grey-lt-000" markdown="1">
 
@@ -60,18 +61,18 @@ It's important to take everything with a grain of salt. You won't really know if
 
 Let's use my current computer's specs and compare them to the [minimum requirements to run Dragon's Dogma 2](https://store.steampowered.com/app/2054970/Dragons_Dogma_2/), a very resource-intensive game that came out recently. Since both Intel and AMD CPUs are listed, as well as NVIDIA and AMD GPUs, we will compare our components with the respective brand listed (bolded).
 
-| Components  | My Computer Specs | Dragon Dogma 2's Minimum Requirements | Status |
-| ----------- | ----------------- | ------------------------------------- | ------ |
-| CPU         | [AMD Ryzen 5 3600X](https://www.cpubenchmark.net/cpu.php?cpu=AMD+Ryzen+5+3600X&id=3494) <br/> Avg. CPU Mark: 18216| [Intel Core i5 10600](https://www.cpubenchmark.net/cpu.php?cpu=Intel+Core+i5-10600+%40+3.30GHz&id=3750) / [AMD Ryzen 5 3600](https://www.cpubenchmark.net/cpu.php?cpu=AMD+Ryzen+5+3600&id=3481) <br/> Avg. CPU Mark: 13675 / **17767** | <span class="text-green-000">**PASS**</span> |
-| RAM         | 64 GB | 16 GB | <span class="text-green-000">**PASS**</span> |
-| GPU         | [NVIDIA GeForce GTX 1660 SUPER](https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+1660+SUPER&id=4159) <br/> Avg. G3D Mark: 12776 | [NVIDIA GeForce GTX 1070](https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+1070&id=3521) / [AMD Radeon RX 5500 XT with 8GB VRAM](https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+5500+XT&id=4174) <br/> Avg. G3D Mark: **13510** / 9164 | <span class="text-red-000">**FAIL**</span> | 
+| Components  | Dragon Dogma 2's Minimum Requirements | My Computer Specs | Status |
+| ----------- | ------------------------------------- | ----------------- | ------ |
+| CPU         | [Intel Core i5 10600](https://www.cpubenchmark.net/cpu.php?cpu=Intel+Core+i5-10600+%40+3.30GHz&id=3750) / [AMD Ryzen 5 3600](https://www.cpubenchmark.net/cpu.php?cpu=AMD+Ryzen+5+3600&id=3481) <br/> Avg. CPU Mark: 13675 / **17767** | [AMD Ryzen 5 3600X](https://www.cpubenchmark.net/cpu.php?cpu=AMD+Ryzen+5+3600X&id=3494) <br/> Avg. CPU Mark: **18216** | <span class="text-green-000">**PASS**</span> |
+| RAM         | **16** GB | **64** GB | <span class="text-green-000">**PASS**</span> |
+| GPU         | [NVIDIA GeForce GTX 1070](https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+1070&id=3521) / [AMD Radeon RX 5500 XT with 8GB VRAM](https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+5500+XT&id=4174) <br/> Avg. G3D Mark: **13510** / 9164 | [NVIDIA GeForce GTX 1660 SUPER](https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+1660+SUPER&id=4159) <br/> Avg. G3D Mark: **12776** | <span class="text-red-000">**FAIL**</span> | 
 
-According to Dragon Dogma 2's Steam page, the minimum requirements are for "1080p/30fps". Keeping the above advice in mind, this means that in theory, I should expect frame drops or stuttering gameplay when running the game alone **before** accounting for VTubing and streaming software. I **might** be able to get it to run more smoothly and stream it if I reduced the resolution to 720p and turned down additional graphics settings like texture quality, shadow quality, and anti-aliasing.
+Based on the above, **in theory**, I should expect frame drops or stuttering gameplay when running the game alone **before** accounting for VTubing and streaming software. I **might** be able to get it to run more smoothly and stream it if I reduced the resolution to 720p and turned down additional graphics settings like texture quality, shadow quality, and anti-aliasing.
 
 </div>
 
 ### Hololive Comparison
-Here is how the minimum requirements compare to some of the computers used by the talents in Hololive (data from [2021]((https://www.reddit.com/r/Hololive/comments/ko50fu/hololive_member_pc_specs_cpu_and_gpu/)) and [2023](https://www.reddit.com/r/Hololive/comments/113mf3n/nene_casual_pc_specs_flex/), RAM is speculative):
+Thanks to some Redditors, we can take a look at how our minimum requirements compare to some of the computers used by the talents in Hololive (data from [2021](https://www.reddit.com/r/Hololive/comments/ko50fu/hololive_member_pc_specs_cpu_and_gpu/) and [2023](https://www.reddit.com/r/Hololive/comments/113mf3n/nene_casual_pc_specs_flex/), RAM is speculative):
 
 | Component | Minimum | Median | Maximum |
 | --------- | ------- | ------ | ------- |
