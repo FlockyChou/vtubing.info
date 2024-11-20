@@ -22,6 +22,6 @@ I have personally gone through each recommended website and resource in order to
 -----
 
 ## Contribute
-Create an GitHub issue or tweet at [@FlockyChou] if there are any items, guides, or resources you would like to see covered or added.----
+Create an GitHub issue or skeet at [@flockychou.bsky.social] if there are any items, guides, or resources you would like to see covered or added.----
 
-[@FlockyChou]: https://x.com/FlockyChou
+[@FlockyChou]: https://bsky.app/profile/flockychou.bsky.social

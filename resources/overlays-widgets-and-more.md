@@ -31,8 +31,6 @@ I've found the most luck under:
     * [#freevtuberassets schedule](https://x.com/search?q=%23freevtuberassets%20schedule)
     * Additionally, I have a few free to use schedules that I've created over on [my Ko-fi page](https://ko-fi.com/flocky_chou/shop).
 
-I also "like" assets I really like at [@FlockyChou](https://x.com/FlockyChou) and retweet free assets when I remember to log in. **I only retweet 100% free assets; no giveaways and raffles.**
-
 -----
 
 ## VTResources
