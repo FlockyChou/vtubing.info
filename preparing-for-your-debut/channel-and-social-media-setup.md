@@ -27,6 +27,10 @@ While YouTube may seem like the better option due to its larger user base, Twitc
 
 However, it's not all fun and games over at Twitch. Twitch streams tend to be more rowdy and while that might be seen as a good thing for engaging your audience, it can come with a price. When popular streamer Jerma transitioned from streaming on YouTube to Twitch in 2021, there was [a noticable increase in transphobia and hateful messages](https://www.dexerto.com/entertainment/jerma985-speaks-out-over-transphobia-and-lgbt-hate-in-his-twitch-chat-1528557/).
 
+#### Monetization Considerations
+
+If you intend on eventually making money from streaming, check out [monetization considerations in this later section](https://vtubing.info/post-debut/monetization-donations-and-gifts.html) where I break down how much money you make after your streaming platform of choice takes its cut.
+
 ### The Case Against Multistreaming
 
 {% include youtube.html id='_G9PhxxqBZk' %}

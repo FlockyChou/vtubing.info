@@ -18,7 +18,9 @@ nav_order: 2
 
 ## Summary
 
-I think before we get started on anything, we need to address the elephant in the room. While you can technically stream on your phone, laptop, or potato PC, your computer specs will determine your ability to VTube in general and what you can stream. As games continue to require beefier hardware to run year after year, your computer's minimum requirements become more and more of a bottleneck for what your can feasibly stream.
+I think before we get started on anything, we need to address the elephant in the room. Being able to run VTube Studio and being able to run VTube Studio, a game, and stream at the same time are two very different things.
+
+While you can technically stream on your phone, laptop, or potato PC, your computer specs will determine your ability to VTube in general and what you can stream. As games continue to require beefier hardware to run year after year, your computer's minimum requirements become more and more of a bottleneck for what your can feasibly stream.
 
 This section will go over what I would consider the minimum requirements for streaming, how to find out if you meet these requirements, and what you can do if you don't meet these requirements.
 
@@ -74,13 +76,13 @@ Based on the above, **in theory**, I should expect frame drops or stuttering gam
 -----
 
 ## Hololive Comparison
-Thanks to some Redditors, we can take a look at how our minimum requirements compare to some of the computers used by the talents in Hololive (data from [2021](https://www.reddit.com/r/Hololive/comments/ko50fu/hololive_member_pc_specs_cpu_and_gpu/) and [2023](https://www.reddit.com/r/Hololive/comments/113mf3n/nene_casual_pc_specs_flex/), RAM is speculative):
+Thanks to some Redditors, we can take a look at how our minimum requirements compare to some of the computers used by the talents in Hololive (data from [2021](https://www.reddit.com/r/Hololive/comments/ko50fu/hololive_member_pc_specs_cpu_and_gpu/), [2023](https://www.reddit.com/r/Hololive/comments/113mf3n/nene_casual_pc_specs_flex/), and [2024 onwards](https://www.reddit.com/r/Hololive/comments/1gldusz/comment/lvtnu9j/), RAM is speculative):
 
 | Component | Minimum | Median | Maximum |
 | --------- | ------- | ------ | ------- |
 | CPU | [Intel Core i5-10400](https://www.cpubenchmark.net/cpu.php?cpu=Intel+Core+i5-10400+%40+2.90GHz&id=3737) <br/> Avg. CPU Mark: 12130 <br/> Price: $75-150 | [Intel Core i9-9900K](https://www.cpubenchmark.net/cpu.php?cpu=Intel+Core+i9-9900K+%40+3.60GHz&id=3334) <br/> Avg. CPU Mark: 18311 <br/> Price: $250-400 | [Intel Core i9-13900KF](https://www.cpubenchmark.net/cpu.php?cpu=Intel+Core+i9-13900KF) <br/> Avg. CPU Mark: 58656 <br/> Price: $400-600
-| RAM | 16 GB <br/> Price: $50-100 | 64 GB <br/> Price: $150-250 | 128 GB <br/> Price: $300-500
-| GPU | [GTX 1060](https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+1060&id=3548) <br/> Avg. G3D Mark: 10073 <br/> Price: $50-150 | [GTX 2080 Ti](https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+2080+Ti&id=3991) <br/> Avg. G3D Mark: 21785 <br/> Price: $200-400 | [GTX 4080](https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+4080&id=4622) <br/> Avg. G3D Mark: 34610 <br/> Price: $800-1200
+| RAM | 16 GB <br/> Price: $50-100 | 32 GB <br/> Price: $80-120 | 64 GB <br/> Price: $150-250
+| GPU | [GTX 1060](https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+1060&id=3548) <br/> Avg. G3D Mark: 10073 <br/> Price: $50-150 | [GTX 2080 Ti](https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+2080+Ti&id=3991) <br/> Avg. G3D Mark: 21785 <br/> Price: $200-400 | [GTX 4080](https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+4090&id=4606) <br/> Avg. G3D Mark: 38579 <br/> Price: $600-1600
 
 -----
 

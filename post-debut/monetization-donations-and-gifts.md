@@ -18,6 +18,8 @@ nav_order: 3
 
 ## Monetization
 
+### Requirements
+
 Making partner is first on the list not because it is the easiest to do, but instead, because it is something you need to work towards. This can take anywhere from a few weeks to a few months to even a few years.
 
 | Platform | Title | Min Followers | Min Stream Hours | Min Watch Hours | Min Average Viewers | Other Reqs |
@@ -28,6 +30,20 @@ Making partner is first on the list not because it is the easiest to do, but ins
 | Twitch | [Partner](https://help.twitch.tv/s/article/achievements#Partner) | - | 25 hrs | - | 75 viewers | Stream on 12 different days |
 
 As I covered in a [previous section](/preparing-for-your-debut/channel-and-social-media-setup.html), becoming a Twitch Affiliate is a much easier than becoming YouTube Partner, even after they introduced the expanded program that halves the number of minimum subscribers required to qualify.
+
+### Your Revenue Share
+
+Your revenue share (how much you get from memberships/subscriptions, super chats, cheers, etc.) will differ with each platform.
+
+| Platform | Type | Share 
+| -------- | ---- | ----- |
+| YouTube | Membership | [70% (after fees)](https://support.google.com/youtube/answer/7491256#zippy=%2Cmemberships-revenue-share) |
+| YouTube | Super Chat | [70% (after fees)](https://support.google.com/youtube/answer/7288782?hl=en#zippy=%2Crevenue-share) |
+| Twitch | Subscription | [50% (after fees)](https://help.twitch.tv/s/article/twitch-affiliate-program-faq?language=en_US#revenue) |
+| Twitch | Bits/Cheering | 100% |
+| Twitch | Bits (via Extensions) | [80%](https://help.twitch.tv/s/article/earning-revenue-from-bits-in-extensions?language=en_US#FAQ) |
+| Twitch (Plus Program, Level 1) | Subscription | [60% (after fees)](https://help.twitch.tv/s/article/plus-program?language=en_US) |
+| Twitch (Plus Program, Level 2) | Subscription | [70% (after fees)](https://help.twitch.tv/s/article/plus-program?language=en_US) |
 
 -----
 
@@ -77,4 +93,9 @@ Much like Streamlabs, StreamElements has full chargeback protection when donatio
 
 ### Throne
 
-[Throne](https://throne.com/) allows you to crowdsource purchases, whether they be personal or things you need for streaming. The benefit of this over something like an Amazon Wishlist is that multiple people can contribute to a purchase (10 people can chip in $10 each to buy a $100 microphone) vs Amazon where someone needs to buy the whole product (one person has to pay the whole $100).
+[Throne](https://throne.com/) allows your fans to purchase and crowdsource gifts for you, whether they be personal or things you need for streaming. The benefit of this over something like an Amazon Wishlist is that multiple people can contribute to a purchase (10 people can chip in $10 each to buy a $100 microphone) vs Amazon where someone needs to buy the whole product (one person has to pay the whole $100). Throne does support Amazon Prime Shipping but you will need to [manually adjust the shipping cost](https://help.throne.com/en/articles/7258762-does-throne-use-amazon-prime).
+
+Please note that Throne does [have fees attached to it](https://help.throne.com/en/articles/7258728-what-fees-do-you-charge) vs. a traditional wishlist including:
+1. Payment processing fee
+2. A service fee for non-partnered stores (such as Amazon)
+3. A fee for "payouts" (where you opt to receive the monetary value of a gift rather than the gift itself)
