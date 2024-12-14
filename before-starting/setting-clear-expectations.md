@@ -2,7 +2,7 @@
 title: Setting Clear Expectations
 layout: default
 parent: Before Starting
-nav_order: 1
+nav_order: 2
 ---
 
 # Setting Clear Expectations

@@ -1,8 +1,8 @@
 ---
 title: Understanding Your Hardware Limitations
 layout: default
-parent: Before Starting
-nav_order: 2
+parent: Can I Stream?
+nav_order: 1
 ---
 
 # Understanding Your Hardware Limitations

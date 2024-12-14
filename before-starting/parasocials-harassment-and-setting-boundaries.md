@@ -1,11 +1,11 @@
 ---
-title: Parasocials, Harassment, and Setting Boundaries
+title: On Parasocials, Harassment, and Setting Boundaries
 layout: default
 parent: Before Starting
-nav_order: 4
+nav_order: 3
 ---
 
-# Setting Boundaries
+# On Parasocials, Harassment, and Setting Boundaries
 {: .no_toc }
 
 ## Table of Contents

@@ -1,8 +1,8 @@
 ---
 title: Understanding Your Internet Connection
 layout: default
-parent: Before Starting
-nav_order: 3
+parent: Can I Stream?
+nav_order: 2
 ---
 
 # Understanding Your Internet Connection
@@ -27,7 +27,7 @@ This section will go over what what the minimum internet speed requirements are 
 ## What Internet Speed Do I Need for Streaming?
 
 {: .important }
-Be aware that while you may have good download speeds, you might not have the same upload speed. Some ISPs, especially in more rural areas that utilize satellite internet, may have significantly less upload speed.
+Be aware that while you may have good download speeds, you might not have the same upload speed. Some ISPs, especially in more rural areas that utilize satellite internet, may have **significantly less upload speed**.
 
 While you may have a decent internet connection for watching YouTube or Netflix, the **most important number when it comes to streaming is upload speed**. Additionally, if there are multiple people living in your household or have multiple devices that are connected to the internet, you may need higher internet speeds/bandwidth.
 
