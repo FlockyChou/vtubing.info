@@ -5,7 +5,7 @@ parent: Before Starting
 nav_order: 4
 ---
 
-# Setting Clear Expectations
+# Where to Stream
 {: .no_toc }
 
 ## Table of Contents
@@ -33,6 +33,8 @@ Where you stream will have an impact on your audience, engagement, growth potent
 #### Pros
 YouTube's revenue split is 70% across the board (for both memberships and super chats), which makes it a lot easier to calculate how much money you're making. In comparison, Twitch has different percentages for bits, bits via extensions, and subscriptions based on which tier you're at. You can find out more about [YouTube monetization here](https://vtubing.info/post-debut/monetization-donations-and-gifts.html#monetization).
 
+-----
+
 #### Cons
 It is a lot harder to get monetized on YouTube than it is on Twitch, even with the new lower expanded YouTube Partner Program. For reference, to qualify for monetization on YouTube, you will need 500 subscribers and 3,000 watch hours within the last year. For Twitch, you only need 50 followers, have streamed 8 hours, and have an average of 3 viewers.
 
@@ -48,6 +50,8 @@ While YouTube may seem like the better option due to its larger user base, [Twit
 
 Additionally, as stated above, Twitch's Affiliate Program has a much lower threshold to qualify than YouTube's Partner Program, so it is easier to qualify for monetization. You can find out more about [monetization here](https://vtubing.info/post-debut/monetization-donations-and-gifts.html#monetization).
 
+-----
+
 #### Cons
 
 However, it's not all fun and games over at Twitch. Twitch streams tend to be more rowdy and while that might be seen as a good thing for engaging your audience, it can come with a price. When popular streamer Jerma transitioned from streaming on YouTube to Twitch in 2021, there was [a noticable increase in transphobia and hateful messages](https://www.dexerto.com/entertainment/jerma985-speaks-out-over-transphobia-and-lgbt-hate-in-his-twitch-chat-1528557/).
@@ -58,7 +62,7 @@ However, it's not all fun and games over at Twitch. Twitch streams tend to be mo
 
 Above, I noted some considerations for streaming on Twitch, namely the increased transphobia and hate speech compared to YouTube. However, neither of them compare to Kick.
 
-Kick.com is a platform that not only houses dangerous content and content creators but also seems to encourage it. Kick has exclusivity contracts with large controversial streamers such as the [transphobic Adin Ross](https://www.dexerto.com/entertainment/adin-ross-forced-to-apologize-after-transphobic-rant-2102398/) who has [streamed pornography](https://www.dexerto.com/entertainment/adin-ross-says-he-streamed-sexual-content-to-flex-he-could-avoid-ban-2081297/), [offered his viewers money to perform acts of violence](https://www.dexerto.com/entertainment/adin-ross-under-fire-for-asking-fan-to-slit-brothers-throat-for-money-2076537/), and told other streamers and his viewers to unalive themselves](https://www.dexerto.com/kick/adin-ross-faces-backlash-after-homophobic-rant-against-kick-viewer-2734478/).
+Kick.com is a platform that not only houses dangerous content and content creators but also seems to encourage it. Kick has exclusivity contracts with large controversial streamers such as the [transphobic Adin Ross](https://www.dexerto.com/entertainment/adin-ross-forced-to-apologize-after-transphobic-rant-2102398/) who has [streamed pornography](https://www.dexerto.com/entertainment/adin-ross-says-he-streamed-sexual-content-to-flex-he-could-avoid-ban-2081297/), [offered his viewers money to perform acts of violence](https://www.dexerto.com/entertainment/adin-ross-under-fire-for-asking-fan-to-slit-brothers-throat-for-money-2076537/), and [told other streamers and his viewers to unalive themselves](https://www.dexerto.com/kick/adin-ross-faces-backlash-after-homophobic-rant-against-kick-viewer-2734478/).
 
 Kick also [launched without a "Report" button](https://www.dexerto.com/entertainment/kick-finally-adds-report-button-to-channels-as-criticism-over-moderation-continues-2338696/) and only added one because of an infamous stream where [streamer Ice Poseidon filmed an escort using hidden cameras](https://www.dexerto.com/entertainment/kick-under-fire-after-creepy-ice-poseidon-stream-leads-to-arrest-2307122/).
 
