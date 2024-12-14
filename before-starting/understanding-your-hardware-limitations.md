@@ -25,12 +25,11 @@ While you can technically stream on your phone, laptop, or potato PC, your compu
 This section will go over what I would consider the minimum requirements for streaming, how to find out if you meet these requirements, and what you can do if you don't meet these requirements.
 
 {: .note}
-While this section can be a bit technical, I will try my best to explain things as easily as possible so that people who aren't familiar with computers can understand.
+While the remaining sections will be a bit technical, I will try my best to explain things as easily as possible so that people who aren't familiar with computers can understand.
 
 -----
 
 ## What is the Minimum Computer Specs for VTubing/Streaming?
-**The long answer** is that it depends based on what type of VTuber model you plan on using and what games you intend on streaming. Multiple factors (namely your CPU, RAM, and GPU) will determine whether or not certain games will run smoothly on your computer. It's important to note that your computer will need to **exceed** the minimum requirements of the games you intend on playing in order to account for VTubing and streaming software running as well.
 
 **The short answer** is that I would recommend **at least**:
 
@@ -39,6 +38,10 @@ While this section can be a bit technical, I will try my best to explain things 
 | CPU | A modernish-gen (10th gen or above) i5 or equivalent
 | RAM | At least 16 GB of RAM
 | GPU | A GTX 1060-equivalent
+
+These specs are what I consider passable **if you already have them**, meaning if your computer meet or exceed these specs, you should be able to hit "Go Live" on a modern-ish game running at 1080p with medium graphics settings. **If your computer specs do not meet these, I would highly recommend investing in a better graphics card than this one.**
+
+**The long answer** is that it depends based on what type of VTuber model you plan on using and what games you intend on streaming. It's important to note that your computer will need to **exceed** the minimum requirements of the games you intend on playing in order to account for VTubing and streaming software running as well.
 
 -----
 
@@ -86,13 +89,19 @@ Thanks to some Redditors, we can take a look at how our minimum requirements com
 
 -----
 
-## Additional Resources
+## I Have a Potato PC. What Can I Stream?
 
-If you can't make heads or tails out of any of this, there are also communities that may be able to help you decipher whether or not you can run a game:
+If you're on older hardware and/or have "integrated graphics" (meaning you don't have a dedicated graphics card), chances are your computer will struggle to be able to run a modern video game let alone stream it. If this is the case and you don't have the resources for an upgrade at the moment, there is nothing wrong with starting as a PNGTuber playing retro or indie games that require less resources.
 
-* [r/CanIRunIt](https://www.reddit.com/r/CanIRunIt/) - "A community with the goal to help computer enthusiasts figure out if they can run certain video games or applications."
+You can check out the community below for games that might run on your hardware:
 * [r/LowEndGaming](https://www.reddit.com/r/lowendgaming/) - "A community for anyone struggling to find something to play for that older system, or sharing or seeking tips for how to run that shiny new game on yesterday's hardware."
 
-In the event that you are running on older hardware or a laptop with an integrated graphics chip that can't be upgraded or don't have the resources for an upgrade at the moment, there is nothing wrong with starting as a PNGTuber playing retro or indie games that require less resources.
+-----
+
+## Additional Resources
+
+If you can't make heads or tails out of any of this, you can check out the community below to help you decipher whether or not you can run a game:
+
+* [r/CanIRunIt](https://www.reddit.com/r/CanIRunIt/) - "A community with the goal to help computer enthusiasts figure out if they can run certain video games or applications."
 
 If you are looking for more information about upgrading or buying a new computer, this is covered in [a later section](https://vtubing.info/post-debut/hardware-upgrades.html).

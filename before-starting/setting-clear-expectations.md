@@ -67,6 +67,8 @@ When first starting out as a content creator, one of the most important things y
 
 The video above by Zekos covers a few things we've already discussed but at around the 1:35 mark, it talks about how to stream to 0 viewers. In it, he highlights the fact that if you are actively watching your view count and only entertaining when you see that someone is watching, chances are it's too late and they may have already left. Your question to yourself should be "At any given time, if someone clicked into my stream, would they have a reason to continue watching or would they click away?" Think about your own experiences clicking into a stream or video and closing it out because it was either boring, too busy, too loud, etc. and use those to gauge your own content.
 
+-----
+
 ## How to Stand Out as a Content Creator
 
 Lastly, in a sea of millions of content creators and tens of thousands of people streaming online at any given time, the novelty of being a VTuber is no longer enough to stand out.
