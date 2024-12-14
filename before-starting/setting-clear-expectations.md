@@ -30,7 +30,7 @@ This section will go over what your expectations should be when getting into VTu
 
 While not explicitly related to VTubing, YouTuber Coffeezilla put out a video talking about his 10 years of content creation. In it, he highlights a number of lessons he learned during this time making content that I feel is very relevant to people looking into getting into content creation today.
 
-The most relevant takeaways for me are:
+I would recommend watching the full video, but for me the most relevant takeaways were:
 * **Focus on the Long-term** - Wanting to get into content creation with the sole goal of making money will show in your work. Getting paid to do what you love would be great but it should not be the immediate goal.
 * **Things Take Time** - Not everyone is able to be successful right off the bat. Expect to fail. A lot. It's important to focus on knowing what kind of content you want to create while being flexible enough to course-correct  when needed.
 * **It's More than Luck...** - Not everyone is going to go viral. In fact, having one "successful" video go viral does not necessarily turn into long-term success. Focus on honing your craft and learning from your mistakes in order to make better content rather than trying to game "the algorithm" or clout chase.
@@ -40,13 +40,13 @@ The most relevant takeaways for me are:
 
 ## Things to Consider Before Starting (for VTubers)
 
-In addition to all the above, there are a lot of things that go on behind the scenes to content creation that most people don't realize.
+In addition to all the above, content creation is not as easy as it seems&mdash;there are a lot of things that happen behind the scenes that most people don't realize.
 
 {% include youtube.html id='EmiFhbz2e2k' %}
 
-In the video above, Squiiji does a real good job highlighting a lot of time and money sinks that most people don't consider when first trying to get into content creation and VTubing specifically. I think a lot of very important things are covered in this video.
+In the video above, artist VTuber Squiiji does a real good job highlighting the time and money sinks that most people don't consider when first trying to get into VTubing and content creation in general.
 
-The most relevant takeaways for me are:
+I think a lot of very important things are covered in this video but the most relevant takeaways for me are:
 * **Consistency is Key** - Upload consistency is a key factor the algorithm looks for and also lets your audience know when you're streaming next.
 * **You Need to Be a Jack of All Trades** - Being a VTuber requires a wide set of skills such as video editing, thumbnail creation, social media management, etc.
 * **You Need to Be Entertaining** - What makes you stand out from the competition?
@@ -61,8 +61,22 @@ The most relevant takeaways for me are:
 
 ## How to Be Entertaining When No One is Watching
 
-Especially when first starting out, one of the most important things you need to learn how to do is being entertaining when no one is watching.
+When first starting out as a content creator, one of the most important things you need to learn how to do is being entertaining, especially when no one is watching.
 
 {% include youtube.html id='uupxfOwyCUk' %}
 
 The video above by Zekos covers a few things we've already discussed but at around the 1:35 mark, it talks about how to stream to 0 viewers. In it, he highlights the fact that if you are actively watching your view count and only entertaining when you see that someone is watching, chances are it's too late and they may have already left. Your question to yourself should be "At any given time, if someone clicked into my stream, would they have a reason to continue watching or would they click away?" Think about your own experiences clicking into a stream or video and closing it out because it was either boring, too busy, too loud, etc. and use those to gauge your own content.
+
+## How to Stand Out as a Content Creator
+
+Lastly, in a sea of millions of content creators and tens of thousands of people streaming online at any given time, the novelty of being a VTuber is no longer enough to stand out.
+
+{% include youtube.html id='UVPPo8L5RO0' %}
+
+In the video above by Randon Neuring, an ex-corporate VTuber, he goes over what you should be focusing on if you want to start being a VTuber today at around the 2:13 mark.
+
+The most relevant takeaways for me are:
+1. **Find something you're passionate about and is uniquely you.** Find something not many others are making content about or something you are extremely knowledgeable about and make content about that.
+1. **Don't try to copy what other people are doing.** There's always going to be some sort of overlap in interests but do not simply copy what other larger VTubers are doing.
+    1. A lot of VTubers (and streamers in general) are about to do variety streaming or stream mainstream content because they already have a following, not the other way around.
+    1. Large IRL streamers such as Ludwin and Jerma started out their streaming careers streaming niche content like Smash Bros and Team Fortress 2 respectively.

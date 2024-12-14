@@ -2,7 +2,7 @@
 title: Naming and Marketing Yourself
 layout: default
 parent: Building Your Brand
-nav_order: 3
+nav_order: 2
 ---
 
 # Naming and Marketing Yourself

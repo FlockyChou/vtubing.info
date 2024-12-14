@@ -2,7 +2,7 @@
 title: Conceptualizing a Character
 layout: default
 parent: Building Your Brand
-nav_order: 2
+nav_order: 1
 ---
 
 # Conceptualizing a Character
