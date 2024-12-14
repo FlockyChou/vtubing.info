@@ -2,14 +2,12 @@ title: VTubing Info
 description: VTubing doesn't have to be hard. You just need to get started.
 theme: just-the-docs
 
-back_to_top: true
-back_to_top_text: "Back to top"
-
 url: https://flockychou.github.io/
 
 aux_links:
   Contribute: https://github.com/FlockyChou/flockychou.github.io/issues
 
+# Callouts
 callouts:
   warning:
     title: Warning
@@ -22,3 +20,10 @@ callouts:
   note:
     title: Note
     color: purple
+
+# Footer
+last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
+last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
+
+back_to_top: true
+back_to_top_text: "Back to top"
