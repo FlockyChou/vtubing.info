@@ -2,6 +2,9 @@ title: VTubing Info
 description: VTubing doesn't have to be hard. You just need to get started.
 theme: just-the-docs
 
+back_to_top: true
+back_to_top_text: "Back to top"
+
 url: https://flockychou.github.io/
 
 aux_links:
