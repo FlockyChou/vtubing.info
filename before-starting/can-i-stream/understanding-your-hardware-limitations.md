@@ -18,9 +18,9 @@ nav_order: 1
 
 ## Summary
 
-I think before we get started on anything, we need to address the elephant in the room. Being able to run VTube Studio and being able to run VTube Studio, a game, and stream at the same time are two very different things.
+Before we get started on anything, we need to address the elephant in the room&mdash;being able to run VTube Studio and being able to run VTube Studio, a game, and stream at the same time are two very different things.
 
-While you can technically stream on your phone, laptop, or potato PC, your computer specs will determine your ability to VTube in general and what you can stream. As games continue to require beefier hardware to run year after year, your computer's minimum requirements become more and more of a bottleneck for what your can feasibly stream.
+While you can technically stream on your phone, laptop, or potato PC, in most cases, your computer specs will determine your ability to VTube in general and what you can stream. As games continue to require beefier hardware to run year after year, your computer's minimum requirements become more and more of a bottleneck for what your can feasibly stream.
 
 This section will go over what I would consider the minimum requirements for streaming, how to find out if you meet these requirements, and what you can do if you don't meet these requirements.
 
@@ -31,29 +31,31 @@ While the remaining sections will be a bit technical, I will try my best to expl
 
 ## What is the Minimum Computer Specs for VTubing/Streaming?
 
-**The short answer** is that I would recommend **at least**:
+Everyone you ask will have a different answer for this question. [Twitch recommends a $1,000 laptop](https://www.twitch.tv/creatorcamp/en/paths/going-live/hardware-recommendations/) and PC parts manufacturer [MSI recommends a $900 graphics card](https://www.msi.com/blog/the-minimum-specs-for-a-streaming-pc-build) for a "minimum spec" streaming PC build but realistically, the threshold is much lower.
 
-| Component | Recommendation
-| --------- | -------------- |
-| CPU | A modernish-gen (10th gen or above) i5 or equivalent
-| RAM | At least 16 GB of RAM
-| GPU | A GTX 1060-equivalent
+You can technically stream with any laptop released within the last 5-10 years but I would recommend **at least** the following if you plan on using a Live2D model and be able to stream modern-ish game running at 1080p with medium graphics settings:
 
-These specs are what I consider passable **if you already have them**, meaning if your computer meet or exceed these specs, you should be able to hit "Go Live" on a modern-ish game running at 1080p with medium graphics settings. **If your computer specs do not meet these, I would highly recommend investing in a better graphics card than this one.**
+| Component | Recommendation | Description |
+| --------- | -------------- | ----------- |
+| CPU | A modernish-gen (10th gen or above) i5 or equivalent | Also known as the processor, the CPU does most of the computing and processing for your computer. |
+| RAM | At least 16 GB of RAM | RAM (random-access memory) provides temporary storage for applications and other processes so they can run more quickly.
+| GPU | A GTX 1060-equivalent | The GPU or graphics card is used for graphics and video rendering. A better GPU allows you to play more graphically-intensive games, watch videos at higher resolutions, the use more monitors.
 
-**The long answer** is that it depends based on what type of VTuber model you plan on using and what games you intend on streaming. It's important to note that your computer will need to **exceed** the minimum requirements of the games you intend on playing in order to account for VTubing and streaming software running as well.
+These specs are what I consider passable if you already have them. **If your computer specs do not meet these, I would highly recommend investing in a better graphics card than this one.**
+
+What specs you need will depend on what type of VTuber model you plan on using and what games you intend on streaming. The following sections will cover how to find out if your computer can run certain games you may be interested in streaming. It's important to note that your computer will need to **exceed** the minimum requirements of the games you intend on playing in order to account for VTubing and streaming software running as well.
 
 -----
 
 ## How Do I Know if I Meet These Requirements?
 
-![Speccy Interface](../assets/images/speccy-specs.jpg)
+![Speccy Interface](../../assets/images/speccy-specs.jpg)
 
-To find out what CPU, RAM, and GPU specs you have, I've found that something like [Speccy](https://www.ccleaner.com/speccy) (pictured above) is one of the easiest ways to find out. If you don't feel comfortable downloading something, you can always Google how to do it for your operating system, as how to do so differs between Windows, Mac, and Linux.
+To find out what CPU, RAM, and GPU specs you have, I've found that something like [Speccy](https://www.ccleaner.com/speccy) (pictured above) is one of the easiest ways to find out for non-technical users. If you don't feel comfortable downloading something, you can always Google how to do it for your operating system, as how to do so differs between Windows, Mac, and Linux.
 
 | Component | Recommendation
 | --------- | -------------- |
-| CPU | **For Intel CPUs**, a 10th gen i5 will show as `i5-10XXX`, an 11th gen as `i5-11XXX`, etc. Generally, an i7 is better than an i5 an an i9 is better than an i7. <br/> **For AMD CPUs**, you can compare benchmark scores by [searching for your CPU](https://www.cpubenchmark.net/cpu_list.php) and seeing if their benchmark scores meet or exceed the recommended CPU ([Intel Core i5-10400](https://www.cpubenchmark.net/cpu.php?cpu=Intel+Core+i5-10400+%40+2.90GHz&id=3737)).
+| CPU | **For Intel CPUs**, a 10th gen i5 (2020) will show as `i5-10XXX`, an 11th gen (2021) as `i5-11XXX`, etc. Generally, an i7 is better than an i5 an an i9 is better than an i7. <br/> **For AMD CPUs**, you can compare benchmark scores by [searching for your CPU](https://www.cpubenchmark.net/cpu_list.php) and seeing if their benchmark scores meet or exceed the recommended CPU ([Intel Core i5-10400](https://www.cpubenchmark.net/cpu.php?cpu=Intel+Core+i5-10400+%40+2.90GHz&id=3737)).
 | RAM | At least 16 GB of RAM
 | GPU | You can compare benchmark scores by [searching for your GPU](https://www.videocardbenchmark.net/gpu_list.php) and seeing if their benchmark scores meet or exceed the recommended GPU ([GTX 1060](https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+1060&id=3548)).
 

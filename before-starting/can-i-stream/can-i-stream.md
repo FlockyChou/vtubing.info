@@ -8,5 +8,5 @@ has_children: true
 
 # Can I Stream?
 
-Before you can start your streaming career, you need to figure out if your hardware and internet connection can even support streaming.
+Before you can start your streaming career, you should figure out if your hardware and internet connection can even support streaming.
 {: .fs-6 .fw-300 }
