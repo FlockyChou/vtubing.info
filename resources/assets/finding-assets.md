@@ -17,10 +17,13 @@ nav_order: 2
 
 -----
 
+## Summary
 Free assets doesn't have to mean bad. There's a lot of high-quality free assets out there in the wild. All you need to do is find them. Here are some of the places that I tend to look.
 
 {: .important }
 Please be sure to read each post carefully and credit the artists properly!
+
+-----
 
 ## Twitter
 Twitter is a really good place to find free overlays, backgrounds, BGM, and VTube Studio model accessories.
