@@ -49,7 +49,7 @@ What specs you need will depend on what type of VTuber model you plan on using a
 
 ## How Do I Know if I Meet These Requirements?
 
-![Speccy Interface](../../assets/images/speccy-specs.jpg)
+![Speccy Interface](/assets/images/speccy-specs.jpg)
 
 To find out what CPU, RAM, and GPU specs you have, I've found that something like [Speccy](https://www.ccleaner.com/speccy) (pictured above) is one of the easiest ways to find out for non-technical users. If you don't feel comfortable downloading something, you can always Google how to do it for your operating system, as how to do so differs between Windows, Mac, and Linux.
 

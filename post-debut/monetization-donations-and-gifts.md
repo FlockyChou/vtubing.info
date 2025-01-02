@@ -57,7 +57,7 @@ However, just setting up a business account isn't enough. There are some additio
 First, you need to go to `Home > Sales > Invoices`.
 
 <div class="code-example" markdown="1">
-![Home > Sales > Invoices](../assets/images/paypal-sales-invoices.jpg)
+![Home > Sales > Invoices](/assets/images/paypal-sales-invoices.jpg)
 </div>
 
 From there, you should see a preview of what your current invoice looks like on the right side of your screen. If it shows any identifying information such as your real name, address, phone number, etc., click on the "More actions" button on the top right and click "Edit business information". From there, make sure any personal information is removed or select "Don't show on invoices" if it is a dropdown. Once you are done, scroll down and click "Save", then refresh to page to ensure everything was saved properly.

@@ -6,7 +6,7 @@ nav_order: 1
 
 # Home
 
-![VTubing Info](assets/images/vtubing-info-logo.png)
+![VTubing Info](/assets/images/vtubing-info-logo.png)
 
 > VTubing doesn't have to be hard. You just need to get started.
 
