@@ -40,7 +40,10 @@ However, artist VTuber Squiiji created [Iiji's PNGTuber Picrew Masterlist](https
 In the image above showcasing [TsuruDraws' Picrew](https://picrew.me/en/image_maker/2304839), you can see how easy it is to create and customize your own PNGTuber using Picrew. **However, please read the rules for each Picrew carefully.** While this one does allow for use as a PNGTuber, it **forbids commercial use** ("You may NOT use this for business accounts, merch, advertising, etc.").
 
 ### Free 3D VTuber Creator
-* [VRoid Studio](https://vroid.com/en/studio)
+
+[VRoid Studio](https://vroid.com/en/studio) makes it very easy to create a custom 3D model. They also have a [very easy-to-follow guide](https://vroid.pixiv.help/hc/en-us/articles/4405597663385-Getting-Started-with-VRoid) on their website that walks you through the entire process.
+
+-----
 
 ## Backgrounds
 
@@ -57,7 +60,7 @@ In the image above showcasing [TsuruDraws' Picrew](https://picrew.me/en/image_ma
 
 ## Free Background Music
 
-**Credit Necessary**
+**Credit required**
 * [DOVA-SYNDROME](https://dova-s.jp/EN/) - A site with free BGM. Used by many corporate VTubers.
 
 -----
