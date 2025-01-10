@@ -84,8 +84,8 @@ As someone who watched VTubers almost exclusively on YouTube, my advice is that 
 
 -----
 
-## Thoughts on Short-form Content
+## Thoughts on Short-form Content and Going Viral
 
-{% include youtube.html id='pPL7nOOI-_s' %}
+{% include youtube.html id='cNXJ3uO5D8g' %}
 
-Unless you're planning on specifically making short-form content on YouTube or TikTok, it seems like most users who find your content through shorts are exclusively interested in shorts. I've seen this phenomenon occur to a number of indie VTubers where their subscription count blew up due to a viral short but did not see significant growth in stream viewership. In the clip above by Leno Vtuber Clips, former idolEN VTuber Rin Penrose talks about their experience with this.
+Less-related to where to stream but more about focusing on the content you would like to create--unless you're planning on specifically making short-form content on YouTube or TikTok, it seems like most users who find your content through shorts are exclusively interested in shorts. In the clip above, former idolEN VTuber Rin Penrose, talks in-depth about their experience with going viral via YouTube shorts and how that has impacted her, her viewership, and growth. I've also unfortunately seen this phenomenon occur to a number of indie VTubers first-hand, where their subscription count blew up due to a viral short but did not see significant growth or consistent viewship during livestreams.
