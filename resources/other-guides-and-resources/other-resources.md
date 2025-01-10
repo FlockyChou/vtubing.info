@@ -1,9 +1,9 @@
 ---
-title: General Resources
+title: Other Resources
 layout: default
 parent: Other Guides and Resources
 grand_parent: Resources
-nav_order: 1
+nav_order: 3
 ---
 
 # General Guides and Resources

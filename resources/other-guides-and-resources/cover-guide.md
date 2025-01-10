@@ -1,12 +1,12 @@
 ---
-title: Covers Resources
+title: Recording a Cover
 layout: default
 parent: Other Guides and Resources
 grand_parent: Resources
-nav_order: 3
+nav_order: 2
 ---
 
-# Covers Resources
+# Recording a Song Cover
 {: .no_toc }
 
 ## Table of Contents
