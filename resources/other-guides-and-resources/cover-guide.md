@@ -21,6 +21,8 @@ nav_order: 2
 
 https://x.com/itscoffeerun/status/1772751589490475113
 
+Unrolled for your convenience (due to Twitter changes that prevent non-logged-in users from reading threads): https://threadreaderapp.com/thread/1772751589490475113.html
+
 -----
 
 ## Resources

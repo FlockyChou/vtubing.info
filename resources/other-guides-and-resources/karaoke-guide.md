@@ -1,12 +1,12 @@
 ---
-title: Karaoke Guide
+title: Karaoke Stream Guide
 layout: default
 parent: Other Guides and Resources
 grand_parent: Resources
 nav_order: 1
 ---
 
-# VTuber Karaoke Guide
+# VTuber Karaoke Stream Guide
 {: .no_toc }
 
 ## Table of Contents
@@ -48,8 +48,15 @@ You may have noticed that most unarchived karaoke streams feature Western music.
 
 To start off, we need to answer the question of "what is the difference between a copyright claim and a copyright strike?"
 
-* [**Copyright Claims**](https://support.google.com/youtube/answer/7002106?hl=en) are when YouTube identifies copyrighted material in your video using automated Content IDs. The best case when receiving one of these is nothing happens or the copyright holder claims the revenue on your video. The worst thing that can happen is the copyright holder can issue a takedown notice for your content. Either way, these copyright claims rarely account for fair use and you can try to dispute these claims by proving you either have the rights or that your work is transformative.
-* [**Copyright Strikes**](https://support.google.com/youtube/answer/2814000?hl=en) are far more serious and are the ones you definitely do not want. These are manually initiated by the copyright holder and can negatively impact your account greatly. These are important to avoid and fight, since **3 copyright strikes can result in the termination of your channel**.
+<div class="code-example bg-grey-lt-000" markdown="1">
+
+[**Copyright Claims**](https://support.google.com/youtube/answer/7002106?hl=en) are when YouTube identifies copyrighted material in your video using automated Content IDs. The best case when receiving one of these is nothing happens or the copyright holder claims the revenue on your video. The worst thing that can happen is the copyright holder can issue a takedown notice for your content. Either way, these copyright claims rarely account for fair use and you can try to dispute these claims by proving you either have the rights or that your work is transformative.
+
+-----
+
+[**Copyright Strikes**](https://support.google.com/youtube/answer/2814000?hl=en) are far more serious and are the ones you definitely do not want. These are manually initiated by the copyright holder and can negatively impact your account greatly. These are important to avoid and fight, since **3 copyright strikes can result in the termination of your channel**.
+
+</div>
 
 For further reading, I found [this article on Copyrighted](https://www.copyrighted.com/blog/copyright-claim-vs-strike) extremely helpful.
 
