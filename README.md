@@ -2,7 +2,7 @@
 
 > VTubing doesn't have to be hard. You just need to get started.
 
-[Read the guide here](https://vtubing.info/).
+This guide has been moved to a new location and can be found [here](https://vtubing.info/). The contents of this old guide will remain up [here](https://old.vtubing.info/).
 
 This guide is using the [Just the Docs](https://just-the-docs.github.io/just-the-docs/) theme.
 
